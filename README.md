@@ -1,4 +1,4 @@
-![Flaze](images/logo.png)
+![Flaze](docs/images/logo.png)
 # [Flaze Documentation](https://github.com/furiozia/Flaze/wiki)  
 
 ### Some links
@@ -6,7 +6,7 @@
  * Flaze Github: [![Github](https://img.shields.io/badge/Github-Flaze-orange?style=flat-square)](https://github.com/FlazeBot)
   
   
-![Flaze Features](images/flaze_features.png)  
+![Flaze Features](docs/images/flaze_features.png)  
 
 |Module|Description|
 |-------|-----------|
