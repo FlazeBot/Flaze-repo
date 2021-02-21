@@ -8,7 +8,7 @@
   
 ![Flaze Features](images/flaze_features.png)  
 
-|Feature|Description|
+|Module|Description|
 |-------|-----------|
 |Utility|Add some basic stuff to your discord server!|
 |Settings|Configure the bot commands as you wish!|
