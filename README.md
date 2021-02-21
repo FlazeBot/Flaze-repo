@@ -1,4 +1,4 @@
-![Flaze](blob/main/logo.png)
+![Flaze](images/logo.png)
 # Flaze bot  
 
 Flaze bot is a project leaded by @chredeur0 with the help of @BENZOOgataga which will help all sort of community discord servers.  
