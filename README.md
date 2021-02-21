@@ -10,5 +10,5 @@
 
 |Module|Description|
 |-------|-----------|
-|Utility|Add some basic stuff to your discord server!|
 |Settings|Configure the bot commands as you wish!|
+|Utility|Add some basic stuff to your discord server!|
