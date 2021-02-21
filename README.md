@@ -1,4 +1,4 @@
-![Test Image 1](blob/main/Furiozia_Banner_SANS_FOND.png)
+![Test Image 1](blob/main/Furiozia_Banner_SANS_FOND_75%.png)
 # Flaze
 Official Flaze Discord Bot repository.
 
