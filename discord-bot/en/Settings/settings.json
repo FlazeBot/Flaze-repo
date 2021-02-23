@@ -23,6 +23,18 @@
     "title4": "❌ Error",
     "description4": "**This rank does not exist or was not found !**"
    }
+  ],
+  "modrank": [
+   {
+    "title1": "❌ Error",
+    "description1": "`modrank` **option is already set to** `%1`",
+    "title2": "❌ Error",
+    "description2": "**The** `%1` **is already used by** `adminrank` **option**",
+    "title3": "ModRank",
+    "description3": "`modrank` **option has been correctly set to** %1 **!**",
+    "title4": "❌ Error",
+    "description4": "**This rank does not exist or was not found !**"
+   }
   ]
  }
 ]
