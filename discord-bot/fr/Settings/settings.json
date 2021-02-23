@@ -19,7 +19,9 @@
     "title2": "❌ Erreur",
     "description2": "**Le rang** `%1` **est déjà utilisé par l'option** `modrank`",
     "title3": "AdminRank",
-    "description3": "**L'option** `adminrank` **à été défini sur** `%1` **!**"
+    "description3": "**L'option** `adminrank` **à été défini sur** `%1` **!**",
+    "title4": "❌ Erreur",
+    "description4": "**Ce rang n'existe pas ou n'a pas été trouvé !**"
    }
   ]
  }
