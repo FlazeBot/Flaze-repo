@@ -17,7 +17,7 @@
     "title1": "❌ Error",
     "description1": "`adminrank` **option is already set to** `%1`",
     "title2": "❌ Error",
-    "description2": "**The** `%1` **is already used by** `modrank` **option**"
+    "description2": "**The** `%1` **is already used by** `modrank` **option**",
     "title3": "AdminRank",
     "description3": "`adminrank` **option has been correctly set to** %1 **!**"
    }
