@@ -1,1 +1,10 @@
-
+[
+ {
+  "prefix": [
+   {
+    "title": "❌ Error",
+    "description": "**The prefix limit is only two characters**"
+   }
+  ]
+ }
+]
