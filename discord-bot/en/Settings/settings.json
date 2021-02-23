@@ -15,7 +15,9 @@
   "adminrank": [
    {
     "title1": "❌ Error",
-    "description1": "`adminrank` **option is already set to** `%1`"
+    "description1": "`adminrank` **option is already set to** `%1`",
+    "title2": "❌ Error",
+    "description2": "**The** `%1` **is already used by** `modrank` **option**"
    }
   ]
  }
