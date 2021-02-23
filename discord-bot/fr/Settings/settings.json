@@ -7,7 +7,9 @@
     "title2": "❌ Erreur",
     "description2": "**Vous ne pouvez pas remettre le même préfixe**",
     "title3": "Préfixe",
-    "description3": "**Votre préfixe a été changé pour** `%1`"
+    "description3": "**Votre préfixe a été changé pour** `%1`",
+    "title4": "[❌ Erreur](https://github.com/FlazeBot/docs/wiki/Settings-Module---Page-1)",
+    "description4": "**Aucun argument sélectionné**"
    }
   ]
  }
