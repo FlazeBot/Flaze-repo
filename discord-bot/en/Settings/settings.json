@@ -3,7 +3,7 @@
   "prefix": [
    {
     "title1": "❌ Error",
-    "description1": "**The prefix limit is only two characters**"
+    "description1": "**The prefix limit is only two characters**",
     "title2": "❌ Error",
     "description2": "**You cannot set the same prefix**"
    }
