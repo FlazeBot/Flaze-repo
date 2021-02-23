@@ -23,7 +23,9 @@
     "title4": "❌ Error",
     "description4": "**This rank does not exist or was not found !**",
     "title5": "AdminRank",
-    "description5": "**The** `adminrank` **option has been deleted, so now the** `%1` **rank has no permissions anymore.**"
+    "description5": "**The** `adminrank` **option has been deleted, so now the** `%1` **rank has no permissions anymore.**",
+    "title6": "❌ Error",
+    "description6": "**The option** `adminrank` **is not defined, please set this option before you can perform this action.**"
    }
   ],
   "modrank": [
@@ -37,7 +39,9 @@
     "title4": "❌ Error",
     "description4": "**This rank does not exist or was not found !**",
     "title5": "ModRank",
-    "description5": "**The** `modrank` **option has been deleted, so now the** `%1` **rank has no permissions anymore.**"
+    "description5": "**The** `modrank` **option has been deleted, so now the** `%1` **rank has no permissions anymore.**",
+    "title6": "❌ Error",
+    "description6": "**The option** `modrank` **is not defined, please set this option before you can perform this action.**"
    }
   ]
  }
