@@ -11,6 +11,12 @@
     "title4": "❌ Error",
     "description4": "**No arguments have been included**"
    }
+  ],
+  "adminrank": [
+   {
+    "title1": "❌ Error",
+    "description1": "`adminrank` **option is already set to** `%1`"
+   }
   ]
  }
 ]
