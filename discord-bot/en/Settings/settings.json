@@ -25,7 +25,9 @@
     "title5": "AdminRank",
     "description5": "**The** `adminrank` **option has been deleted, so now the** `%1` **rank has no permissions anymore.**",
     "title6": "❌ Error",
-    "description6": "**The option** `adminrank` **is not defined, please set this option before you can perform this action.**"
+    "description6": "**The option** `adminrank` **is not defined, please set this option before you can perform this action.**",
+    "title7": "❌ Error",
+    "description7": "**You don't have permission to edit** `adminrank`**, only the creator of this Discord server has permission, however you can still edit modrank.**"
    }
   ],
   "modrank": [
