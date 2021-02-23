@@ -2,8 +2,10 @@
  {
   "prefix": [
    {
-    "title": "❌ Erreur",
-    "description": "**La limite du prefix est de deux caractères**"
+    "title1": "❌ Erreur",
+    "description1": "**La limite du prefix est de deux caractères**"
+    "title2": "❌ Erreur"
+    "description2": "**Vous ne pouvez pas remettre le même préfixe**"
    }
   ]
  }
