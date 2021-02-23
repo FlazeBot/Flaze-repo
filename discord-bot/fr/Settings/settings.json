@@ -21,7 +21,9 @@
     "title3": "AdminRank",
     "description3": "**L'option** `adminrank` **à été défini sur** `%1` **!**",
     "title4": "❌ Erreur",
-    "description4": "**Ce rang n'existe pas ou n'a pas été trouvé !**"
+    "description4": "**Ce rang n'existe pas ou n'a pas été trouvé !**",
+    "title5": "AdminRank",
+    "description5": "**L'option** `adminrank` **a été supprimé, donc le rang** `%1` **n'a plus de permissions.**"
    }
   ],
   "modrank": [
@@ -33,7 +35,9 @@
     "title3": "ModRank",
     "description3": "**L'option** `modrank` **à été défini sur** `%1` **!**",
     "title4": "❌ Erreur",
-    "description4": "**Ce rang n'existe pas ou n'a pas été trouvé !**"
+    "description4": "**Ce rang n'existe pas ou n'a pas été trouvé !**",
+    "title5": "ModRank",
+    "description5": "**L'option** `modrank` **a été supprimé, donc le rang** `%1` **n'a plus de permissions.**"
    }
   ]
  }
