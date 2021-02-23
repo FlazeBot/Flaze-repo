@@ -17,7 +17,9 @@
     "title1": "❌ Erreur",
     "description1": "**L'option** `adminrank` **est déjà réglée sur** `%1`",
     "title2": "❌ Erreur",
-    "description2": "**Le rang** `%1` **est déjà utilisé par l'option** `modrank`"
+    "description2": "**Le rang** `%1` **est déjà utilisé par l'option** `modrank`",
+    "title3": "AdminRank",
+    "description3": "**L'option** `adminrank` **à été défini sur** `%1` **!**"
    }
   ]
  }
