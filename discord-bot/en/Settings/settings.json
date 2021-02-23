@@ -7,7 +7,7 @@
     "title2": "❌ Error",
     "description2": "**You cannot set the same prefix**",
     "title3": "Prefix",
-    "description3": "**Your prefix has been changed to %1**"
+    "description3": "**Your prefix has been changed to** `%1`"
    }
   ]
  }
