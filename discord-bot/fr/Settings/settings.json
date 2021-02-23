@@ -5,7 +5,9 @@
     "title1": "❌ Erreur",
     "description1": "**La limite du prefix est de deux caractères**",
     "title2": "❌ Erreur",
-    "description2": "**Vous ne pouvez pas remettre le même préfixe**"
+    "description2": "**Vous ne pouvez pas remettre le même préfixe**",
+    "title3": "Préfixe",
+    "description3": "**Votre préfixe a été changé pour %1**"
    }
   ]
  }
