@@ -35,7 +35,7 @@
     "title3": "ModRank",
     "description3": "`modrank` **option has been correctly set to** %1 **!**",
     "title4": "❌ Error",
-    "description4": "**This rank does not exist or was not found !**"
+    "description4": "**This rank does not exist or was not found !**",
     "title5": "ModRank",
     "description4": "**The** `modrank` **option has been deleted, so now the** `%1` **rank has no permissions anymore.**"
    }
