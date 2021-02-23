@@ -30,7 +30,7 @@
     "description1": "**L'option** `modrank` **est déjà réglée sur** `%1`",
     "title2": "❌ Erreur",
     "description2": "**Le rang** `%1` **est déjà utilisé par l'option** `adminrank`",
-    "title3": "AdminRank",
+    "title3": "ModRank",
     "description3": "**L'option** `modrank` **à été défini sur** `%1` **!**",
     "title4": "❌ Erreur",
     "description4": "**Ce rang n'existe pas ou n'a pas été trouvé !**"
