@@ -70,8 +70,8 @@
    {
     "title1": "❌ Erreur",
     "description1": "**Vous n'avez pas la permission !**",
-    "title2": "❌ Erreur"",
-    "description2": "**Le langage** `Français` **a été sélectionné.**"
+    "title2": "❌ Erreur",
+    "description2": "**Syntax incorrect, voir** [la documentation](https://github.com/FlazeBot/docs/wiki/Settings-Module) **pour plus d'informations.**"
    }
   ]
  }
