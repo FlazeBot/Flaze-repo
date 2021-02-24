@@ -71,7 +71,7 @@
     "title1": "❌ Error",
     "description1": "**You don't have permission !**",
     "title2": "❌ Error"",
-    "description2": "**Le langage** `Français` **a été sélectionné.**"
+    "description2": "**Invalid argument:** `%1`**, visit** [the wiki](https://github.com/FlazeBot/docs/wiki/Settings-Module---Page-1) **for more informations.**"
    }
   ]
  }
