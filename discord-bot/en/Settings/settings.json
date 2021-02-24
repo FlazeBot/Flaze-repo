@@ -45,6 +45,11 @@
     "title6": "❌ Error",
     "description6": "**The option** `modrank` **is not defined, please set this option before you can perform this action.**"
    }
+  ],
+  "info": [
+   {
+    "None1": "None"
+   }
   ]
  }
 ]
