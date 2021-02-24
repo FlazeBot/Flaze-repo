@@ -65,6 +65,14 @@
     "title3": "❌ Erreur",
     "description3": "**Argument invalide !**"
    }
+  ],
+  "other": [
+   {
+    "title1": "❌ Erreur",
+    "description1": "**Vous n'avez pas la permission !**",
+    "title2": "❌ Erreur"",
+    "description2": "**Le langage** `Français` **a été sélectionné.**"
+   }
   ]
  }
 ]
