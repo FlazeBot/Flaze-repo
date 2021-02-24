@@ -58,6 +58,12 @@
   ],
   "language": [
    {
+    "title1": "❌ Error",
+    "description1": "**This language is already selected !**",
+    "title2": "Language",
+    "description1": "**The** `English` **language has been selected.**",
+    "title3": "❌ Error",
+    "description1": "**Invalid argument !**"
    }
   ]
  }
