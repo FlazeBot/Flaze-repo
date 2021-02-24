@@ -89,7 +89,7 @@
     "title6": "❌ Erreur",
     "description6": "**L'option** `deleteafter` **est déjà réglé sur** `%1`**.**",
     "title7": "DeleteAfter",
-    "description7": "**L'option** `deleteafter` **est maintenant réglé sur** %1**.**"
+    "description7": "**L'option** `deleteafter` **est maintenant réglé sur** `%1`**.**"
    }
   ]
  }
