@@ -73,6 +73,24 @@
     "title2": "❌ Erreur",
     "description2": "**Syntaxe incorrecte, voir [la documentation](https://github.com/FlazeBot/docs/wiki/Settings-Module) pour plus d'informations.**"
    }
+  ],
+  "deleteafter": [
+   {
+    "title1": "❌ Erreur",
+    "description1": "**Aucun argument trouvé.**",
+    "title2": "❌ Erreur",
+    "description2": "**La valeur spécifiée n'est pas un reconnue. Veuillez entrez un nombre ou un chiffre.**",
+    "title3": "❌ Erreur",
+    "description3": "**L'argument doit être compris entre 1 et 300 secondes.**",
+    "title4": "❌ Erreur",
+    "description4": "**L'option** `deleteafter` **est déjà désactivée !**",
+    "title5": "DeleteAfter",
+    "description5": "**L'option** `deleteafter` **est maintenant désactivée !**",
+    "title6": "❌ Erreur",
+    "description6": "**L'option** `deleteafter` **est déjà réglé sur** `%1`**.**",
+    "title7": "❌ Erreur",
+    "description7": "**L'option** `deleteafter` **est maintenant réglé sur** %1**.**"
+   }
   ]
  }
 ]
