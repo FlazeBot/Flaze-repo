@@ -48,7 +48,11 @@
   ],
   "info": [
    {
-    "None1": "Aucun"
+    "None1": "Aucun",
+    "title1": "**❗Préfixe:**",
+    "title2": "**👑 Rôles admin:**",
+    "title3": "**⚒️ Rôles Modérateur:**",
+    "title4": "**🇬🇧 Langue:**"
    }
   ],
   "language": [
