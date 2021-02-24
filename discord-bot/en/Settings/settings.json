@@ -65,6 +65,14 @@
     "title3": "❌ Error",
     "description3": "**Invalid argument !**"
    }
+  ],
+  "other": [
+   {
+    "title1": "❌ Error",
+    "description1": "**You don't have permission !**",
+    "title2": "❌ Error"",
+    "description2": "**Le langage** `Français` **a été sélectionné.**"
+   }
   ]
  }
 ]
