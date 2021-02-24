@@ -84,11 +84,11 @@
     "description3": "**The specified argument must be between 1 and 300 seconds.**",
     "title4": "❌ Error",
     "description4": "**The** `deleteafter` **is already disabled !**",
-    "title5": "❌ Error",
+    "title5": "DeleteAfter",
     "description5": "**The** `deleteafter` **option is now disabled !**",
     "title6": "❌ Error",
     "description6": "**The `deleteafter` **option is already set to** `%1`**.**",
-    "title7": "❌ Error",
+    "title7": "DeleteAfter",
     "description7": "`deleteafter` **option is now set to** %1"
    }
   ]
