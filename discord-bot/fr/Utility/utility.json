@@ -7,6 +7,12 @@
     "title2": "❌ Erreur",
     "description2": "**Cette commande est en cooldown, réessayez dans** `%1`**.**"
    }
+  ],
+  "other": [
+   {
+    "title1": "❌ Erreur",
+    "description1": "**Cette commande est en cooldown, réessayez dans** `%1`**.**"
+   }
   ]
  }
 ]
