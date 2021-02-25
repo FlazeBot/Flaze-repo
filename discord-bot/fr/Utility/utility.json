@@ -13,6 +13,12 @@
     "title1": "❌ Erreur",
     "description1": "**Cette commande est en cooldown, réessayez dans** `%1`**.**"
    }
+  ],
+  "ping": [
+   {
+    "title1": "📶Pong!",
+    "description1": "**🖥️Serveur** : %1ms\n⭐**Shard**: %2/%3, %4ms\n**🕑Uptime** : En ligne depuis %5j %6h %7min %8s"
+   }
   ]
  }
 ]
