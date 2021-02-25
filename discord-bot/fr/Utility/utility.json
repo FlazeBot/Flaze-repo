@@ -1,8 +1,10 @@
 [
-  {
-    "help": [ 
-     {
-     }
-   ]
-  }
+ {
+  "help": [
+   {
+    "title1": "ℹ️ Help",
+    "description1": "**Besoin d'aide ? Visitez [la documentation](https://github.com/FlazeBot/docs/wiki) de Flaze bot et apprenez-en plus sur son fonctionnement !**"
+   }
+  ]
+ }
 ]
