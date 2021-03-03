@@ -1,5 +1,5 @@
 ![Flaze](docs/images/logo.png)
-# [Flaze Documentation](https://github.com/furiozia/Flaze/wiki)  
+# [Flaze documentation](https://github.com/furiozia/Flaze/wiki)  
 
 ### Some links
  * Support Discord: [<img src="https://discordapp.com/api/guilds/813024193968734239/widget.png">](https://discord.com/invite/NwwADKgr)
