@@ -12,3 +12,4 @@
 |-------|-----------|
 |Settings|Configure the bot commands as you wish!|
 |Utility|Add some basic stuff to your discord server!|
+|Logs|Log every action !|
