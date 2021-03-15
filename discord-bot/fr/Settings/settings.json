@@ -53,8 +53,7 @@
     "title2": "**👑 Rôles admin:**",
     "title3": "**⚒️ Rôles Modérateur:**",
     "title4": "**🇫🇷 Langue:**",
-    "title5": "`français`",
-    "title6": "**🏳️‍🌈 Couleur des Embed:**"
+    "title5": "`français`"
    }
   ],
   "language": [
@@ -91,12 +90,6 @@
     "description6": "**L'option** `deleteafter` **est déjà réglé sur** `%1`**.**",
     "title7": "DeleteAfter",
     "description7": "**L'option** `deleteafter` **est maintenant réglé sur** `%1`**.**"
-   }
-  ],
-  "color": [
-   {
-    "title1": "❌ Erreur",
-    "description1": "**Aucun argument trouvé.**"
    }
   ]
  }
