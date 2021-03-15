@@ -92,6 +92,12 @@
     "title7": "DeleteAfter",
     "description7": "**L'option** `deleteafter` **est maintenant réglé sur** `%1`**.**"
    }
+  ],
+  "color": [
+   {
+    "title1": "❌ Erreur",
+    "description1": "**Aucun argument trouvé.**"
+   }
   ]
  }
 ]
