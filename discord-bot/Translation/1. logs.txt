@@ -1,49 +1,59 @@
-1. Embed (title / description) quand tu fait +logs est que dans la configuration des logs elle sont désactiver
+1. Contexte:
+Embed (title / description) quand tu fait +logs est que dans la configuration des logs elle sont désactiver
 Proposition FR:
   Title: Logs
   Description: **Les logs sont désactiver**
 
-2. Embed (title / description) quand tu fait +logs info est que le mode singlechannel est activer
+2.Contexte:
+Embed (title / description) quand tu fait +logs info est que le mode singlechannel est activer
 Proposition FR:
   Title: Logs Info
   Description: **Mode**: `Single Channel`\n**Chanel Logs**: `{channel.name}`
   
-3. Embed (title / description) quand tu fait +logs info est que le mode singlechannel est désactiver
+3. Contexte:
+Embed (title / description) quand tu fait +logs info est que le mode singlechannel est désactiver
 Proposition FR:
   Title: Logs Info
   Description: **Mode**: `Multi Channel`\n**Chanel Logs Discord**: `{channel.name}`\n**Chanel Logs Mod**: `{channel2.name}`
   
-4. Embed (title / description) quand tu fait +logs enable est que les logs s'active
+4. Contexte:
+Embed (title / description) quand tu fait +logs enable est que les logs s'active
 Proposition FR:
   Title: Logs
   Description: **Les logs sont maintenant activer refaite la commande pour les setup**
   
-5. Embed (title / description) quand tu fait +logs enable est que les logs sont déja activer
+5. Contexte:
+Embed (title / description) quand tu fait +logs enable est que les logs sont déja activer
 Proposition FR:
   Title: Logs
   Description: **Les logs sont deja activer**
   
-6. Embed (title / description) quand tu fait +logs disable est que les logs sont déja désactiver
+6. Contexte:
+Embed (title / description) quand tu fait +logs disable est que les logs sont déja désactiver
 Proposition FR:
   Title: Logs
   Description: **Les logs sont deja désactiver**
   
-7. Embed (title / description) quand tu fait +logs disable est que les logs sont déja désactiver
+7. Contexte:
+Embed (title / description) quand tu fait +logs disable est que les logs sont déja désactiver
 Proposition FR:
   Title: Logs
   Description: **Les logs sont deja désactiver**
   
-8. Embed (title / description) quand tu fait +logs disable est que les logs se désactive
+8. Contexte:
+Embed (title / description) quand tu fait +logs disable est que les logs se désactive
 Proposition FR:
   Title: Logs
   Description: **Les logs on été bien désactiver**
   
-9. Embed (title / description) quand tu fait +logs edit est que ne mes pas d'argument
+9. Contexte:
+Embed (title / description) quand tu fait +logs edit est que ne mes pas d'argument
 Proposition FR:
   Title: ❌ Erreur
   Description: **aucun argument :D**
 
-10. Embed (title / description) quand tu fait +logs edit single est que le channel n'a pas été trouvé
+10. Contexte:
+Embed (title / description) quand tu fait +logs edit single est que le channel n'a pas été trouvé
 Proposition FR:
   Title: ❌ Erreur
   Description: **aucun argument :D**
