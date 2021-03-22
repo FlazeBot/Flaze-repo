@@ -1,4 +1,4 @@
-Embed (title / description) quand tu fait +logs est que les logs sont désactiver
+1. Embed (title / description) quand tu fait +logs est que les logs sont désactiver
 Proposition FR:
   Title: Logs
   Description: **Les logs sont désactiver**
