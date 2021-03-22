@@ -1,4 +1,4 @@
-1. Embed (title / description) quand tu fait +logs est que les logs sont désactiver
+1. Embed (title / description) quand tu fait +logs est que sont désactiver de base
 Proposition FR:
   Title: Logs
   Description: **Les logs sont désactiver**
@@ -87,6 +87,17 @@ English:
   Description: A faire 
   
 9. Embed (title / description) quand tu fait +logs edit est que ne mes pas d'argument
+Proposition FR:
+  Title: ❌ Erreur
+  Description: **aucun argument :D**
+French: 
+  Title: A faire
+  Description: A faire
+English:
+  Title: A faire
+  Description: A faire 
+
+10. Embed (title / description) quand tu fait +logs edit single est que le channel n'a pas été trouvé
 Proposition FR:
   Title: ❌ Erreur
   Description: **aucun argument :D**
