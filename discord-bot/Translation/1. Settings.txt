@@ -9,6 +9,90 @@ English:
   Title: A faire
   Description: A faire
 
-2. Embed (title / description) quand tu fait +logs est que les logs sont désactiver
-French: A faire
-English: A faire
+2. Embed (title / description) quand tu fait +logs info est que le mode singlechannel est activer
+Proposition FR:
+  Title: Logs Info
+  Description: **Mode**: `Single Channel`\n**Chanel Logs**: `{channel.name}`
+French: 
+  Title: A faire
+  Description: A faire
+English:
+  Title: A faire
+  Description: A faire
+  
+3. Embed (title / description) quand tu fait +logs info est que le mode singlechannel est désactiver
+Proposition FR:
+  Title: Logs Info
+  Description: **Mode**: `Multi Channel`\n**Chanel Logs Discord**: `{channel.name}`\n**Chanel Logs Mod**: `{channel2.name}`
+French: 
+  Title: A faire
+  Description: A faire
+English:
+  Title: A faire
+  Description: A faire
+  
+4. Embed (title / description) quand tu fait +logs enable est que les logs s'active
+Proposition FR:
+  Title: Logs
+  Description: **Les logs sont maintenant activer refaite la commande pour les setup**
+French: 
+  Title: A faire
+  Description: A faire
+English:
+  Title: A faire
+  Description: A faire 
+  
+5. Embed (title / description) quand tu fait +logs enable est que les logs sont déja activer
+Proposition FR:
+  Title: Logs
+  Description: **Les logs sont deja activer**
+French: 
+  Title: A faire
+  Description: A faire
+English:
+  Title: A faire
+  Description: A faire 
+  
+6. Embed (title / description) quand tu fait +logs disable est que les logs sont déja désactiver
+Proposition FR:
+  Title: Logs
+  Description: **Les logs sont deja désactiver**
+French: 
+  Title: A faire
+  Description: A faire
+English:
+  Title: A faire
+  Description: A faire 
+  
+7. Embed (title / description) quand tu fait +logs disable est que les logs sont déja désactiver
+Proposition FR:
+  Title: Logs
+  Description: **Les logs sont deja désactiver**
+French: 
+  Title: A faire
+  Description: A faire
+English:
+  Title: A faire
+  Description: A faire 
+  
+8. Embed (title / description) quand tu fait +logs disable est que les logs se désactive
+Proposition FR:
+  Title: Logs
+  Description: **Les logs on été bien désactiver**
+French: 
+  Title: A faire
+  Description: A faire
+English:
+  Title: A faire
+  Description: A faire 
+  
+9. Embed (title / description) quand tu fait +logs edit est que ne mes pas d'argument
+Proposition FR:
+  Title: ❌ Erreur
+  Description: **aucun argument :D**
+French: 
+  Title: A faire
+  Description: A faire
+English:
+  Title: A faire
+  Description: A faire 
