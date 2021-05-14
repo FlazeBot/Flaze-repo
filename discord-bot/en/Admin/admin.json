@@ -2,10 +2,20 @@
  {
   "autorole": [
    {
-    "title1": "ℹ️ Help",
+    "title1": "ℹ️ Autorole",
     "description1": "**Need help ? Visit Flaze bot's [wiki](https://github.com/FlazeBot/docs/wiki) and learn more about how it works !**",
     "title2": "❌ Error",
-    "description2": "**This command is on cooldown, try again in** `%1`**.**"
+    "description2": "**L'autorole est deja activé.**",
+    "title3": "Autorole",
+    "description3": "**L'autorole a bien été activé.**",
+    "title4": "❌ Error",
+    "description4": "**L'autorole est deja désactiver.**",
+    "title5": "Autorole",
+    "description5": "**L'autorole a bien été désactiver.**",
+    "title6": "❌ Error",
+    "description6": "**L'autorole est désactiver.**",
+    "title6": "Autorole",
+    "description6": "**L'autorole est désactiver.**",
    }
   ]
  }
