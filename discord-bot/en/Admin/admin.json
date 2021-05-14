@@ -39,6 +39,8 @@
     "description17": "**Vous ne pouvez pas remove ceci.**",
     "title18": "Autorole",
     "description18": "**le role: %1 a bien été supprimer.**",
+    "title19": "❌ Error",
+    "description19": "**Vous n'avez pas la permission.**"
    }
   ]
  }
