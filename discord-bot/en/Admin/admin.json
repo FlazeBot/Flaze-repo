@@ -3,7 +3,7 @@
   "autorole": [
    {
     "title1": "ℹ️ Autorole",
-    "description1": "**Incorrect syntax ! Please check your command or go to our wiki to see how this command work.**",
+    "description1": "**Incorrect syntax ! Please check your command or go to our [wiki](https://github.com/FlazeBot/docs/wiki) to see how this command work.**",
     "title2": "❌ Error",
     "description2": "**Autorole is already enabled.**",
     "title3": "Autorole",
