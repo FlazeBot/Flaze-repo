@@ -13,7 +13,9 @@
   "other": [
    {
     "title1": "❌ Error",
-    "description1": "**This command is on cooldown, try again in** `%1`**.**"
+    "description1": "**This command is on cooldown, try again in** `%1`**.**",
+    "title2": "BENZOOgataga",
+    "description2": "lmao who are you ?"
    }
   ],
   "ping": [
