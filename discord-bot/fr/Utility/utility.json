@@ -5,7 +5,9 @@
     "title1": "ℹ️ Help",
     "description1": "**Besoin d'aide ? Visitez [la documentation](https://github.com/FlazeBot/docs/wiki) de Flaze bot et apprenez-en plus sur son fonctionnement !**",
     "title2": "❌ Erreur",
-    "description2": "**Cette commande est en cooldown, réessayez dans** `%1`**.**"
+    "description2": "**Cette commande est en cooldown, réessayez dans** `%1`**.**",
+    "title3": "Flaze",
+    "description3": "**Mon prefix actuel et:** `%1`**.**"
    }
   ],
   "other": [
