@@ -13,7 +13,9 @@
   "other": [
    {
     "title1": "❌ Erreur",
-    "description1": "**Cette commande est en cooldown, réessayez dans** `%1`**.**"
+    "description1": "**Cette commande est en cooldown, réessayez dans** `%1`**.**",
+    "title2": "BENZOOgataga",
+    "description2": "ptdr t ki ?"
    }
   ],
   "ping": [
