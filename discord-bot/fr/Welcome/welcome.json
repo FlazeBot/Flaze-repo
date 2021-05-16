@@ -34,7 +34,9 @@
     "description15": "**Edition terminé bggggggg :D**",
     "title16": "Erreur",
     "description16": "**Temps écouler salope**",
-    "msg1": "**Voici la preview du message de join:**\n\n"
+    "msg1": "**Voici la preview du message de join:**\n\n",
+    "title17": "Erreur",
+    "description17": "**Vous n'avez pas la permission**"
    }
   ],
   "leave": [
