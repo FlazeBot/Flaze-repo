@@ -7,7 +7,7 @@
     "title2": "❌ Error",
     "description2": "**This command is on cooldown, try again in** `%1`**.**",
     "title3": "Flaze",
-    "description3": "**My prefix is:** `%1`"
+    "description3": "My prefix is: `%1`"
    }
   ],
   "other": [
