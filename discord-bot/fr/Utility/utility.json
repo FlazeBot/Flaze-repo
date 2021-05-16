@@ -7,7 +7,7 @@
     "title2": "❌ Erreur",
     "description2": "**Cette commande est en cooldown, réessayez dans** `%1`**.**",
     "title3": "Flaze",
-    "description3": "**Mon préfixe actuel est:** `%1`"
+    "description3": "Mon préfixe actuel est: `%1`"
    }
   ],
   "other": [
