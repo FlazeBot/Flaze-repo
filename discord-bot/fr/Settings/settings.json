@@ -81,7 +81,7 @@
     "title2": "❌ Erreur",
     "description2": "**La valeur spécifiée n'est pas un reconnue. Veuillez entrez un nombre ou un chiffre.**",
     "title3": "❌ Erreur",
-    "description3": "**L'argument doit être compris entre 1 et 300 secondes.**",
+    "description3": "**L'argument doit être compris entre 1 et 300 secondes ou 'None'.**",
     "title4": "❌ Erreur",
     "description4": "**L'option** `deleteafter` **est déjà désactivée !**",
     "title5": "DeleteAfter",
