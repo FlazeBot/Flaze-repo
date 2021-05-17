@@ -81,7 +81,7 @@
     "title2": "❌ Error",
     "description2": "**The specified argument is not correct. Please enter a valid number.**",
     "title3": "❌ Error",
-    "description3": "**The specified argument must be between 1 and 300 seconds.**",
+    "description3": "**The specified argument must be between 1 and 300 seconds or 'None'.**",
     "title4": "❌ Error",
     "description4": "**The** `deleteafter` **is already disabled !**",
     "title5": "DeleteAfter",
