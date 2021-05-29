@@ -4,7 +4,7 @@
 ### Some links
  * Support Discord: [<img src="https://discordapp.com/api/guilds/813024193968734239/widget.png">](https://discord.gg/jnRrhwBnwh)
  * Flaze Github: [![Github](https://img.shields.io/badge/Github-Flaze-orange?style=flat-square)](https://github.com/FlazeBot)
- * Status Flaze: ![<img src="https://img.shields.io/uptimerobot/ratio/7/m788269344-84eeda928cac35c6769f315e?style=flat-square">](https://stats.uptimerobot.com/DWy1AuBpAr)
+ * Status Flaze: [<img src="https://img.shields.io/uptimerobot/ratio/7/m788269344-84eeda928cac35c6769f315e?style=flat-square">](https://stats.uptimerobot.com/DWy1AuBpAr)
   
   
 ![Flaze Features](docs/images/flaze_features.png)  
