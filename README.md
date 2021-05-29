@@ -1,4 +1,4 @@
-![Flaze](docs/images/logo.png)
+![Flaze](docs/images/logo105x150.png)
 # [Flaze documentation](https://github.com/furiozia/Flaze/wiki)  
 
 ### Some links
