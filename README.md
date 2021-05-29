@@ -2,7 +2,7 @@
 # [Flaze documentation](https://github.com/furiozia/Flaze/wiki)  
 
 ### Some links
- * Support Discord: [<img src="https://discordapp.com/api/guilds/813024193968734239/widget.png">](https://discord.com/invite/NwwADKgr)
+ * Support Discord: [<img src="https://discordapp.com/api/guilds/813024193968734239/widget.png">](https://discord.gg/jnRrhwBnwh)
  * Flaze Github: [![Github](https://img.shields.io/badge/Github-Flaze-orange?style=flat-square)](https://github.com/FlazeBot)
   
   
