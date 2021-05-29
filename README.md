@@ -11,6 +11,6 @@
 |Module|Description|
 |-------|-----------|
 |Settings|Configure the bot commands as you wish!|
-|Utility|Add some basic stuff to your discord server!|
 |Logs|Log every action of your server!|
 |Autorole|Give your users roles when they join your server!|
+|ReactionRoles|Allow your users to give themselves roles|
