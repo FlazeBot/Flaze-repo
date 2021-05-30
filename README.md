@@ -14,6 +14,6 @@
 |Settings|Configure the bot commands as you wish!|
 |Logs|Log every action of your server!|
 |Autorole|Give your users roles when they join your server!|
-|ReactionRoles|Allow your users to give themselves roles|
+|ReactionRole|Allow your users to give themselves roles|
 |Welcome|Configure the bot to welcome your new users!|
 |Moderation|Allow your staff to punish your users|
