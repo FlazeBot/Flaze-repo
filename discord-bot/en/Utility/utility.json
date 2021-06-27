@@ -1,28 +1,16 @@
 [
  {
-  "help": [
-   {
-    "title1": "ℹ️ Help",
-    "description1": "**Need help ? Visit Flaze bot's [wiki](https://github.com/FlazeBot/docs/wiki) and learn more about how it works !**",
-    "title2": "❌ Error",
-    "description2": "**This command is on cooldown, try again in** `%1`**.**",
-    "title3": "Flaze",
-    "description3": "My prefix is: `%1`"
-   }
-  ],
-  "other": [
-   {
-    "title1": "❌ Error",
-    "description1": "**This command is on cooldown, try again in** `%1`**.**",
-    "title2": "BENZOOgataga",
-    "description2": "lmao who are you ?"
-   }
-  ],
-  "ping": [
-   {
-    "title1": "📶Pong!",
-    "description1": "**🖥️Server** : %1ms\n⭐**Shard**: %2/%3, %4ms\n**🕑Uptime** : Online since %5d %6h %7min %8s"
-   }
-  ]
+    "help1_title": "ℹ️ Help",
+    "help1_description": "**Need help ? Visit Flaze bot's [wiki](https://wiki.flazebot.com/) and learn more about how it works !**",
+    "help2_title": "❌ Error",
+    "help2_description": "**This command is on cooldown, try again in** `%1`**.**",
+    "help3_title": "Flaze",
+    "help3_description": "My prefix is: `%1`",
+    "other1_title": "❌ Error",
+    "other1_description": "**This command is on cooldown, try again in** `%1`**.**",
+    "other2_title": "BENZOOgataga",
+    "other2_description": "lmao who are you ?",
+    "ping1_title": "📶Pong!",
+    "ping1_description": "**🖥️Server** : %1ms\n⭐**Shard**: %2/%3, %4ms\n**🕑Uptime** : Online since %5d %6h %7min %8s"
  }
 ]

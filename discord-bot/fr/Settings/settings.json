@@ -1,98 +1,71 @@
 [
  {
-  "prefix": [
-   {
-    "title1": "❌ Erreur",
-    "description1": "**La limite du prefix est de deux caractères**",
-    "title2": "❌ Erreur",
-    "description2": "**Vous ne pouvez pas remettre le même préfixe**",
-    "title3": "Préfixe",
-    "description3": "**Votre préfixe a été changé pour** `%1`",
-    "title4": "❌ Erreur",
-    "description4": "**Aucun argument n'a été inclus**"
-   }
-  ],
-  "adminrank": [
-   {
-    "title1": "❌ Erreur",
-    "description1": "**L'option** `adminrank` **est déjà réglée sur** `%1`",
-    "title2": "❌ Erreur",
-    "description2": "**Le rang** `%1` **est déjà utilisé par l'option** `modrank`",
-    "title3": "AdminRank",
-    "description3": "**L'option** `adminrank` **à été défini sur** `%1` **!**",
-    "title4": "❌ Erreur",
-    "description4": "**Ce rang n'existe pas ou n'a pas été trouvé !**",
-    "title5": "AdminRank",
-    "description5": "**L'option** `adminrank` **a été supprimé, donc le rang** `%1` **n'a plus de permissions.**",
-    "title6": "❌ Erreur",
-    "description6": "**L'option** `adminrank` **n'est pas définie, veuillez définir cette option avant de pouvoir effectuer cette action.**",
-    "title7": "❌ Error",
-    "description7": "**Vous n'avez pas la permission d'éditer** `adminrank`**, seulement le créateur de ce serveur Discord en à la permission, cependant vous pouvez toujours éditer** `modrank`**.**"
-   }
-  ],
-  "modrank": [
-   {
-    "title1": "❌ Erreur",
-    "description1": "**L'option** `modrank` **est déjà réglée sur** `%1`",
-    "title2": "❌ Erreur",
-    "description2": "**Le rang** `%1` **est déjà utilisé par l'option** `adminrank`",
-    "title3": "ModRank",
-    "description3": "**L'option** `modrank` **à été défini sur** `%1` **!**",
-    "title4": "❌ Erreur",
-    "description4": "**Ce rang n'existe pas ou n'a pas été trouvé !**",
-    "title5": "ModRank",
-    "description5": "**L'option** `modrank` **a été supprimé, donc le rang** `%1` **n'a plus de permissions.**",
-    "title6": "❌ Erreur",
-    "description6": "**L'option** `modrank` **n'est pas définie, veuillez définir cette option avant de pouvoir effectuer cette action.**"
-   }
-  ],
-  "info": [
-   {
-    "None1": "Aucun",
-    "title1": "**❗Préfixe:**",
-    "title2": "**👑 Rôles admin:**",
-    "title3": "**⚒️ Rôles Modérateur:**",
-    "title4": "**🇫🇷 Langue:**",
-    "title5": "`français`",   
-    "title6": "**🗑️ DeleteAfters**",
-    "description6": "Désactiver"
-   }
-  ],
-  "language": [
-   {
-    "title1": "❌ Erreur",
-    "description1": "**Ce langage est déjà sélectionné !**",
-    "title2": "Langage",
-    "description2": "**Le langage** `Français` **a été sélectionné.**",
-    "title3": "❌ Erreur",
-    "description3": "**Argument invalide !**"
-   }
-  ],
-  "other": [
-   {
-    "title1": "❌ Erreur",
-    "description1": "**Vous n'avez pas la permission !**",
-    "title2": "❌ Erreur",
-    "description2": "**Syntaxe incorrecte, voir [la documentation](https://github.com/FlazeBot/docs/wiki/Settings-Module) pour plus d'informations.**"
-   }
-  ],
-  "deleteafter": [
-   {
-    "title1": "❌ Erreur",
-    "description1": "**Aucun argument trouvé.**",
-    "title2": "❌ Erreur",
-    "description2": "**La valeur spécifiée n'est pas un reconnue. Veuillez entrez un nombre ou un chiffre.**",
-    "title3": "❌ Erreur",
-    "description3": "**L'argument doit être compris entre 1 et 300 secondes ou 'None'.**",
-    "title4": "❌ Erreur",
-    "description4": "**L'option** `deleteafter` **est déjà désactivée !**",
-    "title5": "DeleteAfter",
-    "description5": "**L'option** `deleteafter` **est maintenant désactivée !**",
-    "title6": "❌ Erreur",
-    "description6": "**L'option** `deleteafter` **est déjà réglé sur** `%1`**.**",
-    "title7": "DeleteAfter",
-    "description7": "**L'option** `deleteafter` **est maintenant réglé sur** `%1`**.**"
-   }
-  ]
+  "prefix1_title": "❌ Erreur",
+  "prefix1_description": "**La limite du prefix est de deux caractères**",
+  "prefix2_title": "❌ Erreur",
+  "prefix2_description": "**Vous ne pouvez pas remettre le même préfixe**",
+  "prefix3_title": "Préfixe",
+  "prefix3_description": "**Votre préfixe a été changé pour** `%1`",
+  "prefix4_title": "❌ Erreur",
+  "prefix4_description": "**Aucun argument n'a été inclus**",
+
+  "adminrank1_title": "❌ Erreur",
+  "adminrank1_description": "**L'option** `adminrank` **est déjà réglée sur** `%1`",
+  "adminrank2_title": "❌ Erreur",
+  "adminrank2_description": "**Le rang** `%1` **est déjà utilisé par l'option** `modrank`",
+  "adminrank3_title": "AdminRank",
+  "adminrank3_description": "**L'option** `adminrank` **à été défini sur** `%1` **!**",
+  "adminrank4_title": "❌ Erreur",
+  "adminrank4_description": "**Ce rang n'existe pas ou n'a pas été trouvé !**",
+  "adminrank5_title": "AdminRank",
+  "adminrank5_description": "**L'option** `adminrank` **a été supprimé, donc le rang** `%1` **n'a plus de permissions.**",
+  "adminrank6_title": "❌ Erreur",
+  "adminrank6_description": "**L'option** `adminrank` **n'est pas définie, veuillez définir cette option avant de pouvoir effectuer cette action.**",
+  "adminrank7_title": "❌ Error",
+  "adminrank7_description": "**Vous n'avez pas la permission d'éditer** `adminrank`**, seulement le créateur de ce serveur Discord en à la permission, cependant vous pouvez toujours éditer** `modrank`**.**",
+  "modrank1_title": "❌ Erreur",
+  "modrank1_description": "**L'option** `modrank` **est déjà réglée sur** `%1`",
+  "modrank2_title": "❌ Erreur",
+  "modrank2_description": "**Le rang** `%1` **est déjà utilisé par l'option** `adminrank`",
+  "modrank3_title": "ModRank",
+  "modrank3_description": "**L'option** `modrank` **à été défini sur** `%1` **!**",
+  "modrank4_title": "❌ Erreur",
+  "modrank4_description": "**Ce rang n'existe pas ou n'a pas été trouvé !**",
+  "modrank5_title": "ModRank",
+  "modrank5_description": "**L'option** `modrank` **a été supprimé, donc le rang** `%1` **n'a plus de permissions.**",
+  "modrank6_title": "❌ Erreur",
+  "modrank6_description": "**L'option** `modrank` **n'est pas définie, veuillez définir cette option avant de pouvoir effectuer cette action.**",
+  "info_None1": "Aucun",
+  "info1_title": "**❗Préfixe:**",
+  "info2_title": "**👑 Rôles admin:**",
+  "info3_title": "**⚒️ Rôles Modérateur:**",
+  "info4_title": "**🇫🇷 Langue:**",
+  "info5_title": "`français`",   
+  "info6_title": "**🗑️ DeleteAfters**",
+  "info6_description": "Désactivé",
+  "language1_title": "❌ Erreur",
+  "language1_description": "**Ce langage est déjà sélectionné !**",
+  "language2_title": "Langage",
+  "language2_description": "**Le langage** `Français` **a été sélectionné.**",
+  "language3_title": "❌ Erreur",
+  "language3_description": "**Argument invalide !**",
+  "other1_title": "❌ Erreur",
+  "other1_description": "**Vous n'avez pas la permission !**",
+  "other2_title": "❌ Erreur",
+  "other2_description": "**Syntaxe incorrecte, voir [la documentation](https://wiki.flazebot.com/) pour plus d'informations.**",
+  "deleteafter1_title": "❌ Erreur",
+  "deleteafter1_description": "**Aucun argument trouvé.**",
+  "deleteafter2_title": "❌ Erreur",
+  "deleteafter2_description": "**La valeur spécifiée n'est pas un reconnue. Veuillez entrez un nombre ou un chiffre.**",
+  "deleteafter3_title": "❌ Erreur",
+  "deleteafter3_description": "**L'argument doit être compris entre 1 et 300 secondes ou 'None'.**",
+  "deleteafter4_title": "❌ Erreur",
+  "deleteafter4_description": "**L'option** `deleteafter` **est déjà désactivée !**",
+  "deleteafter5_title": "DeleteAfter",
+  "deleteafter5_description": "**L'option** `deleteafter` **est maintenant désactivée !**",
+  "deleteafter6_title": "❌ Erreur",
+  "deleteafter6_description": "**L'option** `deleteafter` **est déjà réglé sur** `%1`**.**",
+  "deleteafter7_title": "DeleteAfter",
+  "deleteafter7_description": "**L'option** `deleteafter` **est maintenant réglé sur** `%1`**.**"
  }
 ]
