@@ -135,6 +135,8 @@
   "ticket60_title": "❌ Erreur",
   "ticket60_description": "Vous ne pouvez pas choisir se channel.",
   "ticket61_title": "❌ Erreur",
-  "ticket61_description": "Il y a un problème 🤨."
+  "ticket61_description": "Il y a un problème 🤨.",
+  "ticket62_title": "❌ Erreur",
+  "ticket62_description": "Limite d'erreur atteinte (3 erreur)"
  }
 ]
