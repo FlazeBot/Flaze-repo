@@ -12,7 +12,7 @@
 |-------|------------------|
 |Beta|Beta Testing|
 |v1.0|Stable Build|
-|1.1|Improvements|
+|v1.1|Improvements|
 
 ## Reporting a Vulnerability
 
