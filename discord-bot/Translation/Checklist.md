@@ -1,6 +1,6 @@
 Truc a faire: check logs FR, ReactionRole FR/EN, Ticket EN  
 
-|Stuff|State(✓/✘)|  
+|Stuff|State (✓/✘)|  
 |-------|-----------|  
 |Logs FR|✓|  
 |Logs EN|✓|  
