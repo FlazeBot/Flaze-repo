@@ -7,7 +7,7 @@
     "info3_title": "Logs",
     "info3_description": "**Mode**: `Multi Channel`\n**Channel Logs Discord**: `%1`\n**Channel Logs Mod**: `%2`",
     "enable1_title": "Logs",
-    "enable1_description": "**Les logs sont maintenant activés, refaite la commande pour les configurer**",
+    "enable1_description": "**Les logs sont maintenant activés, faites `+logs setup` pour configurer les logs**",
     "enable2_title": "❌ Erreur",
     "enable2_description": "**Les logs sont déjà activés**",
     "disable1_title": "❌ Erreur",
