@@ -5,7 +5,6 @@
 |Version|State|
 |-------|------------------|
 |v0.1|Under development|
-|v0.9|Beta Testing|
 
 ## Reporting a Vulnerability
 
