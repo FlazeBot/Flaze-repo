@@ -6,7 +6,6 @@
 |-------|------------------|
 |v0.1|Under development|
 |v0.9|Beta Testing|
-|v1.0|Stable Build|
 
 ## Reporting a Vulnerability
 
