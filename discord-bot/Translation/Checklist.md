@@ -17,6 +17,6 @@
 |Welcome FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Welcome EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 
-Done: (https://via.placeholder.com/15/6dff87/000000?text=+)
-Not Done: ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)
-To check: ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+)
+Done: ![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)  
+Not Done: ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)  
+To check: ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+)  
