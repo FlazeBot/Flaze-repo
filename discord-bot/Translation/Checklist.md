@@ -1,6 +1,6 @@
 Truc a faire: check logs FR, ReactionRole FR/EN, Ticket EN  
 
-|Stuff|State (✓/✘)|  
+|Stuff|State (Green:Done, Red:To-Do)|  
 |-------|-----------|  
 |Logs FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Logs EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
