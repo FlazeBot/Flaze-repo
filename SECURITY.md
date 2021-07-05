@@ -10,7 +10,7 @@
 
 |Version|Description|
 |-------|------------------|
-|v0.9|Beta Testing|
+|Beta|Beta Testing|
 |v1.0|Stable Build|
 |1.1|Improvements|
 
