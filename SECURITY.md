@@ -1,6 +1,6 @@
 # Security Policy
 
-## Current Versions
+## Current Version
 
 |Version|Description|
 |-------|------------------|
