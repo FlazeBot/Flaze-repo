@@ -1,4 +1,4 @@
-Truc a faire: Logs EN, ReactionRole FR/EN, Ticket EN
+Truc a faire: Logs EN check logs FR, ReactionRole FR/EN, Ticket EN
 
 AutoRole FR: Fait
 AutoRole EN: Fait
