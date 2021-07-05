@@ -1,6 +1,6 @@
 Truc a faire: check logs FR, ReactionRole FR/EN, Ticket EN  
 
-|A faire/fait|État|  
+|Stuff|State|  
 |-------|-----------|  
 |Logs FR|✓|  
 |Logs EN|✓|  
