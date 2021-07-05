@@ -47,7 +47,7 @@
     "logs15_title": "Logs",
     "logs15_description": "Faites +logs edit pour modifier la configuration des logs ou +logs info pour voir votre configuration.",
     "logs16_title": "❌ Erreur",
-    "logs16_description": "Vous n'avez pas la permission pour fair ceci",
+    "logs16_description": "Vous n'avez pas la permission pour faire ceci",
     "logs17_title_1": "Logs",
     "logs17_title_2": "**Mode multi channel**",
     "logs17_description_2": "Vous avez 1 minute pour envoyer le nom ou l'ID du channel logs discord.\nEntrez ``cancel`` pour annuler",
