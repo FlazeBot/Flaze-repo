@@ -4,7 +4,7 @@
 
 |Version|Description|
 |-------|------------------|
-|Pre-Alpha|Under development|
+|Alpha|Under development|
 
 ## Upcoming Versions
 
