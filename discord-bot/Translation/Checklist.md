@@ -1,5 +1,3 @@
-Truc a faire: check logs FR, ReactionRole FR/EN, Ticket EN  
-
 |Stuff|State|  
 |-------|-----------|  
 |Logs FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
