@@ -7,7 +7,7 @@ Truc a faire: check logs FR, ReactionRole FR/EN, Ticket EN
 |Autorole FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Autorole EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Image FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
-|Image EN|![#c5f015](https://via.placeholder.com/15/ff0000/000000?text=+)|  
+|Image EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |ReactionRole FR|![#c5f015](https://via.placeholder.com/15/ff0000/000000?text=+)|  
 |ReactionRole EN|![#c5f015](https://via.placeholder.com/15/ff0000/000000?text=+)|  
 |Settings FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
