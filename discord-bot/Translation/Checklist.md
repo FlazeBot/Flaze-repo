@@ -2,7 +2,7 @@ Truc a faire: check logs FR, ReactionRole FR/EN, Ticket EN
 
 |Stuff|State (✓/✘)|  
 |-------|-----------|  
-|Logs FR|https://via.placeholder.com/15/1589F0/000000?text=+|  
+|Logs FR|✓|  
 |Logs EN|✓|  
 |Autorole FR|✓|  
 |Autorole EN|✓|  
