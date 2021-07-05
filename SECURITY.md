@@ -2,9 +2,17 @@
 
 ## Current Versions
 
-|Version|State|
+|Version|Description|
 |-------|------------------|
 |v0.1|Under development|
+
+## Upcoming Versions
+
+|Version|Description|
+|-------|------------------|
+|v0.9|Beta Testing|
+|v1.0|Stable Build|
+|1.1|Improvements|
 
 ## Reporting a Vulnerability
 
