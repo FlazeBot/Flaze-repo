@@ -59,6 +59,8 @@
     "logs20_description": "**Limite d'erreurs atteinte (3 erreurs)**",
     "logs21_title": "❌ Erreur",
     "logs21_description": "Il y'a un problème 🤨.",
+    "logs22_title": "❌ Erreur",
+    "logs22_description": "Type de channel invalide",
     "on_message_delete1_title": "**🗑️ Message supprimé**",
     "on_message_delete1_description": "Auteur du message supprimé",
     "on_message_edit1_title": "**📝 Modification d'un message**",
