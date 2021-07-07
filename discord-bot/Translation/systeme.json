@@ -2,7 +2,19 @@
  {
   "default_info": [
    {
-    "count": 9
+    "count": 9,
+    "all": 
+     [
+      "admin",
+      "autorole",
+      "image",
+      "logs",
+      "reactionrole",
+      "settings",
+      "ticket",
+      "utility",
+      "welcome"
+     ]
    }
   ],
   "admin": [
