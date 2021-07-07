@@ -59,6 +59,8 @@
     "logs20_description": "**Errors limit reached, exiting setup (3 errors)**",
     "logs21_title": "❌ Error",
     "logs21_description": "There's a problem 🤨.",
+    "logs22_title": "❌ Error",
+    "logs22_description": "Wrong channel type",
     "on_message_delete1_title": "**🗑️ Message deleted**",
     "on_message_delete1_description": "Message author",
     "on_message_edit1_title": "**📝 Message edited**",
