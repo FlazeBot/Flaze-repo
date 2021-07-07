@@ -1,72 +1,70 @@
 [
- {
-  "default_info": [
-   {
-    "count": 9
-   }
-  ],
-  "admin": [
-   {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Admin/admin.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Admin/admin.json",
-    "path": "/Admin/admin.json"
-   }
-  ],
-  "autorole": [
-   {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/AutoRole/autorole.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/AutoRole/autorole.json",
-    "path": "/Autorole/autorole.json"
-   }
-  ],
-  "image": [
-   {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Image/image.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Image/image.json",
-    "path": "/Image/image.json"
-   }
-  ],
-  "logs": [
-   {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Logs/logs.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Logs/logs.json",
-    "path": "/Logs/logs.json"
-   }
-  ],
-  "reactionrole": [
-   {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/ReactionRole/reactionrole.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/ReactionRole/reactionrole.json",
-    "path": "/Reactionrrole/reactionrole.json"
-   }
-  ],
-  "settings": [
-   {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Settings/settings.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Settings/settings.json",
-    "path": "/Settings/settings.json"
-   }
-  ],
-  "ticket": [
-   {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Ticket/ticket.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Ticket/ticket.json",
-    "path": "/Ticket/ticket.json"
-   }
-  ],
-  "utility": [
-   {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Utility/utility.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Utility/utility.json",
-    "path": "/Utility/utility.json"
-   }
-  ],
-  "welcome": [
-   {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Welcome/welcome.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Welcome/welcome.json",
-    "path": "/Welcome/welcome.json"
-   }
-  ]
- }
+ "default_info": [
+  {
+   "count": 9
+  }
+ ],
+ "admin": [
+  {
+   "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Admin/admin.json",
+   "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Admin/admin.json",
+   "path": "/Admin/admin.json"
+  }
+ ],
+ "autorole": [
+  {
+   "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/AutoRole/autorole.json",
+   "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/AutoRole/autorole.json",
+   "path": "/Autorole/autorole.json"
+  }
+ ],
+ "image": [
+  {
+   "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Image/image.json",
+   "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Image/image.json",
+   "path": "/Image/image.json"
+  }
+ ],
+ "logs": [
+  {
+   "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Logs/logs.json",
+   "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Logs/logs.json",
+   "path": "/Logs/logs.json"
+  }
+ ],
+ "reactionrole": [
+  {
+   "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/ReactionRole/reactionrole.json",
+   "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/ReactionRole/reactionrole.json",
+   "path": "/Reactionrrole/reactionrole.json"
+  }
+ ],
+ "settings": [
+  {
+   "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Settings/settings.json",
+   "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Settings/settings.json",
+   "path": "/Settings/settings.json"
+  }
+ ],
+ "ticket": [
+  {
+   "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Ticket/ticket.json",
+   "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Ticket/ticket.json",
+   "path": "/Ticket/ticket.json"
+  }
+ ],
+ "utility": [
+  {
+   "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Utility/utility.json",
+   "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Utility/utility.json",
+   "path": "/Utility/utility.json"
+  }
+ ],
+ "welcome": [
+  {
+   "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Welcome/welcome.json",
+   "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Welcome/welcome.json",
+   "path": "/Welcome/welcome.json"
+  }
+ ]
 ]
