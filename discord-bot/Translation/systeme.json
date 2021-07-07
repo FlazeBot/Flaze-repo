@@ -4,35 +4,35 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Admin/admin.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Admin/admin.json",
-    "path": ""
+    "path": "/Admin/admin.json"
    }
   ],
   "autorole": [
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/AutoRole/autorole.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/AutoRole/autorole.json",
-    "path": ""
+    "path": "/Autorole/autorole.json"
    }
   ],
   "image": [
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Image/image.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Image/image.json",
-    "path": ""
+    "path": "/Image/image.json"
    }
   ],
   "logs": [
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Logs/logs.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Logs/logs.json",
-    "path": ""
+    "path": "/Logs/logs.json"
    }
   ],
   "reactionrrole": [
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/ReactionrRole/reactionrrole.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/ReactionrRole/reactionrrole.json",
-    "path": ""
+    "path": "Reactionrrole"
    }
   ],
   "settings": [
