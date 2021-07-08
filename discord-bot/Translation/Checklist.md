@@ -16,8 +16,8 @@
 |Utility EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Welcome FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Welcome EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
-|StickyNotes EN|Not Done: ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)|
-|StickyNotes FR|Not Done: ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)|
+|StickyNotes EN|![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)|
+|StickyNotes FR|![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)|
 
 Done: ![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)  
 Not Done: ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)  
