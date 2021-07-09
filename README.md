@@ -2,9 +2,9 @@
 # [Flaze documentation](https://github.com/furiozia/Flaze/wiki)  
 
 ### Some links
- * Invite Flaze: [<img src="https://img.shields.io/badge/Flaze-Invite-green?style=flat-square">](https://invite.flazebot.com)
  * Support Discord: [<img src="https://discordapp.com/api/guilds/813024193968734239/widget.png">](https://discord.flazebot.com)
  * Flaze Github: [![Github](https://img.shields.io/badge/Github-Flaze-orange?style=flat-square)](https://github.com/FlazeBot)
+ * Invite Flaze: [<img src="https://img.shields.io/badge/Flaze-Invite-green?style=flat-square">](https://invite.flazebot.com)
  * Status Flaze: [<img src="https://img.shields.io/uptimerobot/ratio/7/m788269344-84eeda928cac35c6769f315e?style=flat-square">](https://stats.uptimerobot.com/DWy1AuBpAr)
   
   
