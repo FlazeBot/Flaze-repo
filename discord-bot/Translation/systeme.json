@@ -71,6 +71,13 @@
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Welcome/welcome.json",
     "path": "/Welcome/"
    }
-  ]
+  ],
+  "stickynotes": [
+   {
+    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/StickyNotes/stickynotes.json",
+    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/StickyNotes/stickynotes.json",
+    "path": "/StickyNotes/"
+   }
+  ],
  }
 ]
