@@ -44,7 +44,7 @@
   "StickyNotes21_title": "❌ Erreur",
   "StickyNotes21_description": "Limite de caractères atteinte (2048 max)",
   "StickyNotes22_title": "StickyNotes",
-  "StickyNotes22_description": "La note a bien été ajouter ([{%1}]({%2}))",
+  "StickyNotes22_description": "La note a bien été ajouter ([%1](%2))",
   "StickyNotes23_title": "❌ Erreur",
   "StickyNotes23_description": "Vous n'avez pas specifier la note",
   "StickyNotes24_title": "❌ Erreur",
