@@ -52,6 +52,8 @@
   "other1_description": "**You don't have permission !**",
   "other2_title": "❌ Error",
   "other2_description": "**Incorrect syntax, visit [the wiki](https://github.com/FlazeBot/docs/wiki/Settings-Module---Page-1) for more informations.**",
+  "other3_title": "Settings",
+  "other3_description": "%1settings preifx\n%1settings adminrank\n%1settings modrank\n%1settings info\n%1settings language\n%1settings deleteafter",
   "deleteafter1_title": "❌ Error",
   "deleteafter1_description": "**No argument were found.**",
   "deleteafter2_title": "❌ Error",
