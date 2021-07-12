@@ -137,6 +137,8 @@
   "ticket61_title": "❌ Erreur",
   "ticket61_description": "Il y a un problème 🤨.",
   "ticket62_title": "❌ Erreur",
-  "ticket62_description": "Limite d'erreur atteinte (3 erreur)"
+  "ticket62_description": "Limite d'erreur atteinte (3 erreur)",
+  "ticket63_title": "Ticket",
+  "ticket63_description": "%1ticket enable\n%1ticket disable\n%1ticket disable\n%1ticket setup\n%1add\n%1remove"
  }
 ]
