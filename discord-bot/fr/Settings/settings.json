@@ -8,7 +8,6 @@
   "prefix3_description": "**Votre préfixe a été changé pour** `%1`",
   "prefix4_title": "❌ Erreur",
   "prefix4_description": "**Aucun argument n'a été inclus**",
-
   "adminrank1_title": "❌ Erreur",
   "adminrank1_description": "**L'option** `adminrank` **est déjà réglée sur** `%1`",
   "adminrank2_title": "❌ Erreur",
@@ -53,6 +52,8 @@
   "other1_description": "**Vous n'avez pas la permission !**",
   "other2_title": "❌ Erreur",
   "other2_description": "**Syntaxe incorrecte, voir [la documentation](https://wiki.flazebot.com/) pour plus d'informations.**",
+  "other3_title": "Settings",
+  "other3_description": "%1settings preifx\n%1settings adminrank\n%1settings modrank\n%1settings info\n%1settings language\n%1settings deleteafter",
   "deleteafter1_title": "❌ Erreur",
   "deleteafter1_description": "**Aucun argument trouvé.**",
   "deleteafter2_title": "❌ Erreur",
