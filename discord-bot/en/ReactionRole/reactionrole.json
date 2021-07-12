@@ -62,6 +62,8 @@
   "reactionrole32_title": "ReactionRole",
   "reactionrole32_description": "**Configuration terminée**",
   "reactionrole33_title": "❌ Erreur",
-  "reactionrole33_description": "**You don't have permission**"
+  "reactionrole33_description": "**You don't have permission**",
+  "reactionrole34_title": "❌ Erreur",
+  "reactionrole34_description": "**Limite d'erreur atteinte (3 max)**"
  }
 ]
