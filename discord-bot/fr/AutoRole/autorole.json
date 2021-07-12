@@ -1,7 +1,7 @@
 [
  {
-  "autorole1_title": "ℹ️ Autorole",
-  "autorole1_description": "**Syntaxe incorrecte. Veuillez revoir votre commande ou bien visitez notre [wiki](https://github.com/FlazeBot/docs/wiki).**",
+  "autorole1_title": "Autorole",
+  "autorole1_description": "%1autorole enable\n%1autorole disable\n%1autorole add\n%1autorole remove\n%1autorole edit\n%1autorole info",
   "autorole2_title": "❌ Error",
   "autorole2_description": "**L'autorole est déjà activé.**",
   "autorole3_title": "Autorole",
