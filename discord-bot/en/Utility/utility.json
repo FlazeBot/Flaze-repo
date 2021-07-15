@@ -1,7 +1,7 @@
 [
  {
     "help1_title": "ℹ️ Help",
-    "help1_description": "**Need help ? Visit Flaze bot's [wiki](https://wiki.flazebot.com/) and learn more about how it works !**",
+    "help1_description": "**Need help ? Visit Flaze bot's [wiki](https://docs.flazebot.com/) and learn more about how it works !**",
     "help2_title": "❌ Error",
     "help2_description": "**This command is on cooldown, try again in** `%1`**.**",
     "help3_title": "Flaze",
