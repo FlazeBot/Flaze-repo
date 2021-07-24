@@ -11,6 +11,8 @@
   "other2_title": "BENZOOgataga",
   "other2_description": "ptdr t ki ?",
   "ping1_title": "📶Pong!",
-  "ping1_description": "**🖥️Serveur** : %1ms\n⭐**Shard**: %2/%3, %4ms\n**🕑Uptime** : En ligne depuis %5j %6h %7min %8s"
+  "ping1_description": "**🖥️Serveur** : %1ms\n⭐**Shard**: %2/%3, %4ms\n**🕑Uptime** : En ligne depuis %5j %6h %7min %8s",
+  "discord1_title": "Discord",
+  "discord1_description": "Voici le discord de flaze: [discord.flazebot.com](https://discord.flazebot.com) si ta besoin d'aide click ;D"
  }
 ]
