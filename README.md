@@ -1,5 +1,5 @@
-![Flaze](docs/images/logo105x105.png)
-# [Flaze documentation](https://github.com/furiozia/Flaze/wiki)  
+![Flaze](docs-images/logo105x105.png)
+# [Flaze documentation](https://docs.flazebot.com)  
 
 ### Some links
  * Support Discord: [<img src="https://discordapp.com/api/guilds/813024193968734239/widget.png">](https://discord.flazebot.com)
@@ -8,7 +8,7 @@
  * Status Flaze: [<img src="https://img.shields.io/uptimerobot/ratio/7/m788269344-84eeda928cac35c6769f315e?style=flat-square">](https://stats.uptimerobot.com/DWy1AuBpAr)
   
   
-![Flaze Features](docs/images/flaze_features.png)  
+![Flaze Features](docs-images/flaze_features.png)  
 
 |Module|Description|
 |-------|-----------|
