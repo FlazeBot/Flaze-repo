@@ -4,7 +4,7 @@
 
 |Version|Description|
 |-------|------------------|
-|Alpha|Under development|
+|Beta|Flaze is under a beta phase, some bugs may be there|
 
 ## Upcoming Versions
 
