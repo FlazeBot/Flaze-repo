@@ -1,0 +1,1 @@
+Please do consider visiting our documentation at https://docs.flazebot.com/
