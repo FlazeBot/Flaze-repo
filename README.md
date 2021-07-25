@@ -1,4 +1,4 @@
-![Flaze](docs-images/logo105x105.png)
+![Flaze](docs-images/Flaze/logo105x105.png)
 # [Flaze documentation](https://docs.flazebot.com)  
 
 ### Some links
@@ -8,7 +8,7 @@
  * Status Flaze: [<img src="https://img.shields.io/uptimerobot/ratio/7/m788269344-84eeda928cac35c6769f315e?style=flat-square">](https://stats.uptimerobot.com/DWy1AuBpAr)
   
   
-![Flaze Features](docs-images/flaze_features.png)  
+![Flaze Features](docs-images/Flaze/flaze_features.png)  
 
 |Module|Description|
 |-------|-----------|
