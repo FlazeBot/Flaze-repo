@@ -8,7 +8,7 @@
  * Status Flaze: [<img src="https://img.shields.io/uptimerobot/ratio/7/m788269344-84eeda928cac35c6769f315e?style=flat-square">](https://stats.uptimerobot.com/DWy1AuBpAr)
   
   
-![Flaze Features](https://docs.flazebot.com/features/commands)  
+![Flaze Features](docs-images/Flaze/flaze_features.png)  
 
 |Module|Description|
 |-------|-----------|
