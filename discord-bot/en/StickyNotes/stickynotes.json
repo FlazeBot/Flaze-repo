@@ -62,7 +62,7 @@
   "StickyNotes30_title": "StickyNotes",
   "StickyNotes30_description": "The note has been deleted successfully",
   "StickyNotes31_title": "❌ Error",
-  "StickyNotes31_description": "**Incorrect syntax. Please review your command or visit our [documentation](https://wiki.flazebot.com).**",
+  "StickyNotes31_description": "**Incorrect syntax. Please review your command or visit our [documentation](https://docs.flazebot.com).**",
   "StickyNotes32_title": "❌ Error",
   "StickyNotes32_description": "**You don't have permission to do this at the moment.**"
  }
