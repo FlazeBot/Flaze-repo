@@ -10,7 +10,7 @@
 |ReactionRole EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Settings FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Settings EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
-|Ticket FR|![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+)|  
+|Ticket FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Ticket EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|  
 |Utility FR|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)|
 |Utility EN|![#c5f015](https://via.placeholder.com/15/6dff87/000000?text=+)| 
