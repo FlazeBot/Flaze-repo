@@ -62,7 +62,7 @@
   "StickyNotes30_title": "StickyNotes",
   "StickyNotes30_description": "La note a bien été supprimé",
   "StickyNotes31_title": "❌ Erreur",
-  "StickyNotes31_description": "**Syntaxe incorrecte. Veuillez revoir votre commande ou bien visitez notre [documentation](https://wiki.flazebot.com).**",
+  "StickyNotes31_description": "**Syntaxe incorrecte. Veuillez revoir votre commande ou bien visitez notre [documentation](https://docs.flazebot.com).**",
   "StickyNotes32_title": "❌ Erreur",
   "StickyNotes32_description": "**Vous n'avez pas la permission pour faire ceci.**"
  }
