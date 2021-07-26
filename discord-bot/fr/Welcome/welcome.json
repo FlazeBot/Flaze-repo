@@ -1,7 +1,7 @@
 [
  {
   "join1_title": "Erreur",
-  "join1_description": "**Syntaxe incorrecte ! le [wiki](https://github.com/FlazeBot/docs/wiki)**",
+  "join1_description": "**Syntaxe incorrecte ! le [wiki](https://docs.flazebot.com)**",
   "join2_title": "Erreur",
   "join2_description": "**Le Welcome join est déjà activé !**",
   "join3_title": "Welcome",
