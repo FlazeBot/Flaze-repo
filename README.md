@@ -18,6 +18,5 @@
 |ReactionRole|Allow your users to give themselves roles|
 |Tickets|Let your users get support|
 |StickyNotes|Don't forget what you need to do|
-|Restricted Channels|Block your users from using commands in certain channels|
 |Welcome|Configure the bot to welcome your new users!|
 |Moderation|Allow your staff to punish your users|
