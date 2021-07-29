@@ -21,7 +21,7 @@
   "adminrank6_title": "❌ Erreur",
   "adminrank6_description": "**L'option** `adminrank` **n'est pas définie, veuillez définir cette option avant de pouvoir effectuer cette action.**",
   "adminrank7_title": "❌ Error",
-  "adminrank7_description": "**Vous n'avez pas la permission d'éditer** `adminrank`**, seulement le créateur de ce serveur Discord en à la permission, cependant vous pouvez toujours éditer** `modrank`**.**",
+  "adminrank7_description": "**Vous n'avez pas la permission d'éditer** `adminrank`**, seulement le créateur de ce serveur Discord ou un utilisateur disposant de l'autorisation `Administrateur` peut utiliser cette option, cependant vous pouvez toujours éditer** `modrank`**.**",
   "modrank1_title": "❌ Erreur",
   "modrank1_description": "**L'option** `modrank` **est déjà réglée sur** `%1`",
   "modrank2_title": "❌ Erreur",

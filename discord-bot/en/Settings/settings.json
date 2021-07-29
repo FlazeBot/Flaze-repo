@@ -21,7 +21,7 @@
   "adminrank6_title": "❌ Error",
   "adminrank6_description": "**The option** `adminrank` **is not defined, please set this option before you can perform this action.**",
   "adminrank7_title": "❌ Error",
-  "adminrank7_description": "**You don't have permission to edit** `adminrank`**, only the creator of this Discord server has permission, however you can still edit** `modrank`**.**",
+  "adminrank7_description": "**You don't have permission to edit** `adminrank`**, only the creator of this Discord server or a user that has `Administrator` permission can use this option, however you can still edit** `modrank`**.**",
   "modrank1_title": "❌ Error",
   "modrank1_description": "`modrank` **option is already set to** `%1`",
   "modrank2_title": "❌ Error",
