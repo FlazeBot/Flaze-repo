@@ -1,7 +1,7 @@
 [
  {
   "StickyNotes1_title": "StickyNotes",
-  "StickyNotes1_description": "%1note enable\n%1note disable\n%1note info\n%1note setup\n%1note add\n%1note edit <message_id>\n%1note delete <message_id>",
+  "StickyNotes1_description": "%1note enable\n%1note disable\n%1note info\n%1note setup\n%1note add\n%1note edit <message_id>\n%1note remove <message_id>",
   "StickyNotes2_title": "❌ Erreur",
   "StickyNotes2_description": "StickyNotes est déjà activé",
   "StickyNotes3_title": "StickyNotes",
