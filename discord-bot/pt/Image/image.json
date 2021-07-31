@@ -21,6 +21,24 @@
   "image5_title2": ":kiss: Kiss",
   "image5_description2": "**Watch them kiss each other**",
   "image5_title3": ":kiss: Kiss",
-  "image5_description3": "**Member not found**"
+  "image5_description3": "**Member not found**",
+  "image6_title": "Image",
+  "image6_description": "%1image enable\n%1image disable\n%1image info",
+  "image7_title": "❌ Erreur",
+  "image7_description": "**Les image sont deja activé**",
+  "image8_title": "Image",
+  "image8_description": "**Les images on bien été activé**",
+  "image9_title": "❌ Erreur",
+  "image9_description": "**Les image sont deja désactivé**",
+  "image10_title": "Image",
+  "image10_description": "**Les images on bien été désactivé**",
+  "image11_msg0": "disable",
+  "image12_msg1": "enable",
+  "image13_title": "Image",
+  "image13_description": "**Status:** %1",
+  "image14_title": "❌ Erreur",
+  "image14_description": "**Erreur de syntax la [docs](https://docs.flazebot.com/)**",
+  "image15_title": "❌ Erreur",
+  "image15_description": "**Vous n'avez pas la permission**"
  }
 ]
