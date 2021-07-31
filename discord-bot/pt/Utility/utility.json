@@ -1,0 +1,24 @@
+[
+ {
+    "help1_title": "ℹ️ Help",
+    "help1_description": "**Need help ? Visit Flaze bot's [wiki](https://docs.flazebot.com/) and learn more about how it works !**",
+    "help2_title": "❌ Error",
+    "help2_description": "**This command is on cooldown, try again in** `%1`**.**",
+    "help3_title": "Flaze",
+    "help3_description": "My prefix is: `%1`",
+    "other1_title": "❌ Error",
+    "other1_description": "**This command is on cooldown, try again in** `%1`**.**",
+    "other2_title": "BENZOOgataga",
+    "other2_description": "lmao who are you ?",
+    "ping1_title": "📶Pong!",
+    "ping1_description": "**🖥️Server** : %1ms\n⭐**Shard**: %2/%3, %4ms\n**🕑Uptime** : Online since %5d %6h %7min %8s",
+    "discord1_title": "Discord",
+    "discord1_description": "Here is our official Discord server: [discord.flazebot.com](https://discord.flazebot.com/) if you need help click :wink:",
+    "module1_title": "Disabled",
+    "module2_title": "Enabled",
+    "module3_title": "Bot Configuration",
+    "module3_description": "**Prefix :** `%1`\n**Language :** 🇬🇧`English`",
+    "module4_title": "FlazeBot configuration on %1",
+    "module4_description": "**Documentation: https://docs.flazebot.com/**"
+ }
+]
