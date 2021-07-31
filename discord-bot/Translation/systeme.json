@@ -21,6 +21,7 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/AutoRole/autorole.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/AutoRole/autorole.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/AutoRole/autorole.json",
     "path": "/AutoRole/"
    }
   ],
@@ -28,6 +29,7 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Image/image.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Image/image.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Image/image.json",
     "path": "/Image/"
    }
   ],
@@ -35,6 +37,7 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Logs/logs.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Logs/logs.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Logs/logs.json",
     "path": "/Logs/"
    }
   ],
@@ -42,6 +45,7 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/ReactionRole/reactionrole.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/ReactionRole/reactionrole.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/ReactionRole/reactionrole.json",
     "path": "/ReactionRole/"
    }
   ],
@@ -49,6 +53,7 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Settings/settings.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Settings/settings.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Settings/settings.json",
     "path": "/Settings/"
    }
   ],
@@ -56,6 +61,7 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Ticket/ticket.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Ticket/ticket.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Ticket/ticket.json",
     "path": "/Ticket/"
    }
   ],
@@ -63,6 +69,7 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Utility/utility.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Utility/utility.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Utility/utility.json",
     "path": "/Utility/"
    }
   ],
@@ -70,6 +77,7 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Welcome/welcome.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Welcome/welcome.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Welcome/welcome.json",
     "path": "/Welcome/"
    }
   ],
@@ -77,6 +85,7 @@
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/StickyNotes/stickynotes.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/StickyNotes/stickynotes.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/StickyNotes/stickynotes.json",
     "path": "/StickyNotes/"
    }
   ]
