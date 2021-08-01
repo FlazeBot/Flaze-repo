@@ -1,1 +1,0 @@
-That's a quick test for our changelog system.
