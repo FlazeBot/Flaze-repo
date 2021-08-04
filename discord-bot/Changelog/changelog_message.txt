@@ -1,1 +1,14 @@
-that's a test, leave this text file you dumb ass.
+Hi dear FlazeBot community!
+
+**Today we are launching our brand new Changelog feature!** It will allow you to receive FlazeBot updates in a specified channel instead of getting bored and going to our Discord server or even our GitHub/Documentation.
+
+**Changelog** can be configured by typing `+changelog` with one of the following permissions: Owner of the Discord Guild, `adminrank` or `Administrator` permission.
+
+:warning: __**Important**__ :warning:
+At the moment, this feature is a bit limited by Discord API and we are preserving our performances to let people use the bot while Flaze is sending all changelog to all guilds.
+Note that Flaze is not being used by a lot of guilds and like so we are currently experiencing this system. It will probably receive modifications.
+
+For further informations or if you have questions, please do consider visiting us at https://discord.flazebot.com/
+
+Changelog made by BENZOOgataga.
+Made with :heart: by chredeur.
