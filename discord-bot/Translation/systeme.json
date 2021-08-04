@@ -92,9 +92,9 @@
   ],
   "Changelog": [
    {
-    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/StickyNotes/changelog.json",
-    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/StickyNotes/changelog.json",
-    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/StickyNotes/changelog.json",
+    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Changelog/changelog.json",
+    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Changelog/changelog.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Changelog/changelog.json",
     "path": "/Changelog/"
    }
   ]
