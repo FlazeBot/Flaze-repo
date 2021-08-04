@@ -2,7 +2,7 @@
  {
   "default_info": [
    {
-    "count": 9,
+    "count": 10,
     "all": 
      [
       "autorole",
@@ -13,7 +13,8 @@
       "ticket",
       "utility",
       "welcome",
-      "stickynotes"
+      "stickynotes",
+      "changelog"
      ]
    }
   ],
@@ -87,6 +88,14 @@
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/StickyNotes/stickynotes.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/StickyNotes/stickynotes.json",
     "path": "/StickyNotes/"
+   }
+  ],
+  "Changelog": [
+   {
+    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/StickyNotes/changelog.json",
+    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/StickyNotes/changelog.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/StickyNotes/changelog.json",
+    "path": "/Changelog/"
    }
   ]
  }
