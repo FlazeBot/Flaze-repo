@@ -10,5 +10,5 @@ Note that Flaze is not being used by a lot of guilds and like so we are currentl
 
 For further informations or if you have questions, please do consider visiting us at https://discord.flazebot.com/
 
-Changelog made by BENZOOgataga#8666.
+Changelog made by BENZOOgataga.
 Made with :heart: by chredeur.
