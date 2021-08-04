@@ -1,5 +1,6 @@
 [
  {
+  
    "help1_title": "ℹ️ Ajuda",
    "help1_description": "**Precisa de ajuda ? Visite a [wiki](https://docs.flazebot.com/) do bot e aprenda mais como isso funciona !**",
    "help2_title": "❌ Erro",
@@ -19,6 +20,8 @@
    "module3_title": "Configuraçoes do bot",
    "module3_description": "**Prefixo :** `%1`\n**Linguagem :** 🇬🇧`English`",
    "module4_title": "Configuração do FlazeBot em %1",
-   "module4_description": "**Documentação: https://docs.flazebot.com/**"
+   "module4_description": "**Documentação: https://docs.flazebot.com/**",
+   "vote1_title": "📄Vote",
+   "vote1_description": "**Vote for FlazeBot**\nhttps://top.gg/bot/812993088749961236\nhttps://disbotlist.xyz/bot/812993088749961236#\nhttps://discordbotlist.com/bots/flaze\n\n**Vote for Flaze Incorporated™️**\nhttps://top.gg/servers/813024193968734239\nhttps://disbotlist.xyz/server/813024193968734239\nhttps://discordbotlist.com/servers/flaze-incorporated"
  }
 ]
