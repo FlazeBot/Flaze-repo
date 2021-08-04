@@ -90,7 +90,7 @@
     "path": "/StickyNotes/"
    }
   ],
-  "Changelog": [
+  "changelog": [
    {
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Changelog/changelog.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Changelog/changelog.json",
