@@ -2,7 +2,7 @@
  {
   "default_info": [
    {
-    "count": 10,
+    "count": 11,
     "all": 
      [
       "autorole",
@@ -14,7 +14,8 @@
       "utility",
       "welcome",
       "stickynotes",
-      "changelog"
+      "changelog",
+      "twitter"
      ]
    }
   ],
@@ -96,6 +97,14 @@
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Changelog/changelog.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Changelog/changelog.json",
     "path": "/Changelog/"
+   }
+  ],
+  "twitter": [
+   {
+    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Twitter/twitter.json",
+    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Twitter/twitter.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Twitter/twitter.json",
+    "path": "/Twitter/"
    }
   ]
  }
