@@ -1,4 +1,3 @@
-![Flaze](docs-images/Flaze/logo105x105.png)
 # [Flaze documentation](https://docs.flazebot.com)  
 
 ## FlazeBot Project is discontinued. Feel free to use whatever you want from this GitHub (except FlazeBot images/banners/logos)
@@ -9,8 +8,7 @@
  * Invite Flaze: [<img src="https://img.shields.io/badge/Flaze-Invite-green?style=flat-square">](https://invite.flazebot.com)
  * Status Flaze: [<img src="https://img.shields.io/badge/Flaze-Status-blue?style=flat-square">](https://status.flazebot.com)
   
-  
-![Flaze Features](docs-images/Flaze/flaze_features.png)  
+ ## FlazeBot features
 
 |Module|Description|
 |-------|-----------|
