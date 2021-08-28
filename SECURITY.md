@@ -4,7 +4,7 @@
 
 |Version|Description|
 |-------|------------------|
-|Beta|Flaze is under a beta phase, some bugs may be there|
+|Discontinued|FlazeBot Project is discontinued.|
 
 ## Upcoming Versions
 
