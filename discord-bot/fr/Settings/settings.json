@@ -73,7 +73,7 @@
   "restricted_channels11_title": "❌ Erreur",
   "restricted_channels11_description": "**Mauvais type de channel**",
   "restricted_channels12_title": "Settings",
-  "restricted_channels12_description": "Voulez-vous qu'un message soit envoyer si une commmande est executer dans un channel autre que le restricted channels ? True: `Oui` False: `Non`, taper `cancel` pour annuler",
+  "restricted_channels12_description": "Voulez-vous qu'un message soit envoyer si une commmande est executer dans un channel autre que le restricted channels? True: (Oui) False: (Non)\nTaper `cancel` pour annuler",
   "restricted_channels13_title": "❌ Erreur",
   "restricted_channels13_description": "**Il y a un problème 🤨.**",
   "restricted_channels14_title": "Settings",
