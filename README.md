@@ -13,10 +13,4 @@
 |Module|Description|
 |-------|-----------|
 |Settings|Configure the bot commands as you wish!|
-|Logs|Log every action of your server!|
-|Autorole|Give your users roles when they join your server!|
-|ReactionRole|Allow your users to give themselves roles|
-|Tickets|Let your users get support|
-|StickyNotes|Don't forget what you need to do|
-|Welcome|Configure the bot to welcome your new users!|
-|Moderation|Allow your staff to punish your users|
+|Radio|a|
