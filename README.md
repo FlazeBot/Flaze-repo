@@ -13,4 +13,4 @@
 |Module|Description|
 |-------|-----------|
 |Settings|Configure the bot commands as you wish!|
-|Radio|a|
+|Radio|a faire|
