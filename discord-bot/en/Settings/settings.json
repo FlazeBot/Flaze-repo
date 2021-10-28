@@ -75,7 +75,7 @@
   "restricted_channels13_title": "Erreur",
   "restricted_channels13_description": "**There is a problem 🤨.**",
   "restricted_channels14_title": "Settings",
-  "restricted_channels14_description": "**Please specify your 'Restricted Channel' (ID or name)\nType `cancel` to exit.**",
+  "restricted_channels14_description": "**Please specify your 'Restricted Channel' (ID, name or mention)\nType `cancel` to exit.**",
   "restricted_channels15_title": "Erreur",
   "restricted_channels15_description": "**Error limit reached (3 maximum)**",
   "restricted_channels16_title": "Settings",
