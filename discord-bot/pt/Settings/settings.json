@@ -37,7 +37,7 @@
   "other2_title": "❌ Error",
   "other2_description": "**Incorrect syntax, visit our [documentation](https://docs.flazebot.com/features/settings-commands) for more informations.**",
   "other3_title": "Settings",
-  "other3_description": "%1settings prefix\n%1settings djrank (None)\n%1settings info\n%1settings language (en/fr/pt)\n%1settings deleteafter (None)\n%1settings restricted_channels (disable)",
+  "other3_description": "%1settings prefix\n%1settings djrank (None)\n%1settings info\n%1settings language (en/fr/pt)\n%1settings deleteafter (None)\n%1settings restricted_channels (disable)\n%1settings restricted_vc (disable)",
   "deleteafter1_title": "❌ Error",
   "deleteafter1_description": "**No argument were found.**",
   "deleteafter2_title": "❌ Error",
