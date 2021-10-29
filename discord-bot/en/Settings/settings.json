@@ -102,8 +102,6 @@
   "restricted_vc10_description": "The channel could not be found.",
   "restricted_vc11_title": "Erreur",
   "restricted_vc11_description": "**Invalid channel type.**",
-  "restricted_vc12_title": "Settings",
-  "restricted_vc12_description": "Do you want a message to be sent if a command is executed in a channel other than the restricted_channels? Answer by `True` (Yes) or `False` (No)\nType `cancel` to exit.",
   "restricted_vc13_title": "Erreur",
   "restricted_vc13_description": "**There is a problem 🤨.**",
   "restricted_vc14_title": "Settings",
