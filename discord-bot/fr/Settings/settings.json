@@ -85,7 +85,7 @@
   "restricted_channels17_title": "❌ Erreur",
   "restricted_channels17_description": "Argument invalide",
   "restricted_channels18_title": "Settings",
-  "restricted_channels18_description": "**Veuillez choisir le salon 'Restricted Channels' numéro `%1` (id ou le nom) tapez `cancel` pour annuler.**",
+  "restricted_channels18_description": "**Veuillez choisir le salon 'Restricted Channels' numéro `%1` (id, nom ou mention) tapez `cancel` pour annuler.**",
   "restricted_channels19_title": "❌ Erreur",
   "restricted_channels19_description": "**Vous ne pouvez pas choisir le même channel.**",
   "restricted_channels20_title": "❌ Erreur",
