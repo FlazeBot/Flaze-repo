@@ -28,6 +28,8 @@
   "player11_title": "Leave",
   "player11_description": "Le bot a bien été déco",
   "player12_title": "❌ Erreur",
-  "player12_description": "Le mode DJ et activée"
+  "player12_description": "Le mode DJ et activée",
+  "player13_title": "❌ Erreur",
+  "player13_description": "La commande volume a été désactiver pour des raison de preformence elle ne sera sans doute pas rajouter, vous pouvez modifier le volume du bot en faisant un click droit sur luis."
  }
 ]
