@@ -88,6 +88,7 @@
   "restricted_channels19_description": "**You cannot chose the same channel.**",
   "restricted_channels20_title": "Erreur",
   "restricted_channels20_description": "**You cannot send commands in this channel.**",
+  "restricted_vc1_title": "🛡️ Restricted Voice Channels",
   "restricted_vc5_title": "Settings",
   "restricted_vc5_description": "Restricted Voice Channels are disabled",
   "restricted_vc6_title": "Erreur",
