@@ -4,12 +4,13 @@
 
 |Version|Description|
 |-------|------------------|
-|Discontinued|FlazeBot Project is discontinued.|
+|v0.1|FlazeBot is under developmemt (Alpha Stage).|
 
 ## Upcoming Versions
 
 |Version|Description|
 |-------|------------------|
+|v0.1-v0.9|Alpha Stage (Developement)|
 |Beta|Beta Testing|
 |v1.0|Stable Build|
 |v1.1|Improvements|
