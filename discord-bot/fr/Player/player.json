@@ -4,7 +4,7 @@
   "player1_title": "❌ Erreur",
   "player1_description": "Vous devez être dans un salon vocal pour utiliser cette commande.",
   "player2_title": "❌ Erreur",
-  "player2_description": "tu doit être dans le même channel que FlazeBot.",
+  "player2_description": "Vous devez être dans le même salon vocal que FlazeBot.",
   "player3_title": "Flaze",
   "player3_description": "Quel genre de musique voulez-vous écouter ?",
   "player4_title": "❌ Erreur",
@@ -30,6 +30,6 @@
   "player12_title": "❌ Erreur",
   "player12_description": "Le mode DJ est activé",
   "player13_title": "❌ Erreur",
-  "player13_description": "La commande `volume` a été désactivée pour des raisons de performances, elle ne sera sans doutes pas rajoutée, vous pouvez modifier le volume de la musique manuellement."
+  "player13_description": "La commande `volume` a été désactivée pour des raisons de performances, elle ne sera sans doutes pas rajoutée, vous pouvez modifier le volume de la musique manuellement avec les options d'utilisateur Discord."
  }
 ]
