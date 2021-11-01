@@ -4,7 +4,7 @@
 
 |Version|Description|
 |-------|------------------|
-|v0.1|FlazeBot is under developmemt (Alpha Stage).|
+|v1.0|FlazeBot is under developement but Beta Testing (quite stable)|
 
 ## Upcoming Versions
 
