@@ -11,4 +11,4 @@
 |Module|Description|
 |-------|-----------|
 |Settings|Configure the bot commands as you wish!|
-|Radio|Play music with defined playlists!|
+|Radio|Play music with defined playlists! |
