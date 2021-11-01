@@ -6,7 +6,7 @@
 |-------|------------------|
 |v1.0|FlazeBot is under developement but Beta Testing (quite stable)|
 
-## Upcoming Versions
+## Versions
 
 |Version|Description|
 |-------|------------------|
