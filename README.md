@@ -1,5 +1,8 @@
 # [Flaze documentation](https://docs.flazebot.com)  
 
+## FlazeBot current version
+ * Check [SECURITY.md](https://github.com/FlazeBot/Flaze-documentation/blob/main/SECURITY.md) file
+
 ### Some links
  * [<img src="https://discordapp.com/api/guilds/813024193968734239/widget.png">](https://discord.flazebot.com)
  * [![Docs](https://img.shields.io/badge/Flaze-Docs-orange?style=flat-square)](https://docs.flazebot.com)
