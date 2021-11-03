@@ -1,7 +1,7 @@
 [
  {
   "changelog1_title": "Changelog",
-  "changelog1_description": "%1changelog enable\n%1changelog disable\n%1changelog info\n%1changelog setup",
+  "changelog1_description": "%1changelog enable\n%1changelog disable\n%1changelog info",
   "changelog2_title": "❌ Error",
   "changelog2_description": "**Changelog is already enabled.**",
   "changelog3_title": "Changelog",
