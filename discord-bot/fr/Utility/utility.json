@@ -1,7 +1,7 @@
 [
  {
   "help1_title": "ℹ️ Help",
-  "help1_description": "**Besoin d'aide ? Visitez [la documentation](https://docs.flazebot.com/) de Flaze bot et apprenez-en plus sur son fonctionnement !**",
+  "help1_description": "**Commandes Basic**\n%1play\n%1nowplaying\n%1leave\n\n**Besoin d'aide ? Visitez [la documentation](https://docs.flazebot.com/) de Flaze bot et apprenez-en plus sur son fonctionnement !**",
   "help2_title": "❌ Erreur",
   "help2_description": "**Cette commande est en cooldown, réessayez dans** `%1`**.**",
   "help3_title": "Flaze",
