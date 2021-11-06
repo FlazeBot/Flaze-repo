@@ -1,0 +1,29 @@
+[
+ {
+  "House": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/house.txt"
+   }
+  ],
+  "Lofi Hip Hop": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/lofi.txt"
+   }
+  ],
+  "Phonk": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/phonk.txt"
+   }
+  ],
+  "Trap": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/trap.txt"
+   }
+  ]
+  "US Rap": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/rap_us.txt"
+   }
+  ]
+ }
+]
