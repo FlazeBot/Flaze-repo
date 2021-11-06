@@ -1,9 +1,29 @@
 [
  {
-  "house": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/house.txt",
-  "lofi": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/lofi.txt",
-  "phonk": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/phonk.txt",
-  "trap": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/trap.txt",
-  "rap_us": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/rap_us.txt"
+  "house": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/house.txt"
+   }
+  ],
+  "lofi": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/lofi.txt"
+   }
+  ],
+  "phonk": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/phonk.txt"
+   }
+  ],
+  "trap": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/trap.txt"
+   }
+  ],
+  "rap_us": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/rap_us.txt"
+   }
+  ]
  }
 ]
