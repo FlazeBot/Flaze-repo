@@ -1,8 +1,7 @@
 [
  {
-  
    "help1_title": "ℹ️ Ajuda",
-   "help1_description": "**Precisa de ajuda ? Visite a [wiki](https://docs.flazebot.com/) do bot e aprenda mais como isso funciona !**",
+   "help1_description": "**Comandos Básicos**\n%1play\n%1nowplaying\n%1leave\n\n**Precisa de ajuda ? Visite a [wiki](https://docs.flazebot.com/) do bot e aprenda mais como isso funciona !**",
    "help2_title": "❌ Erro",
    "help2_description": "**Esse comando está em cooldown, tente novamente em** `%1`**.**",
    "help3_title": "Flaze",
@@ -22,8 +21,8 @@
    "module4_title": "Configuração do FlazeBot em %1",
    "module4_description": "**Documentação: https://docs.flazebot.com/**",
    "vote1_title": "📄Vote",
-   "vote1_description": "**Vote for FlazeBot**\nhttps://top.gg/bot/812993088749961236\nhttps://disbotlist.xyz/bot/812993088749961236#\nhttps://discordbotlist.com/bots/flaze\n\n**Vote for Flaze Incorporated™️**\nhttps://top.gg/servers/778284070295175188\nhttps://disbotlist.xyz/server/778284070295175188\nhttps://discordbotlist.com/servers/flaze-incorporated\nhttps://disboard.org/fr/server/778284070295175188",
-   "invite1_title": "Invite",
+   "vote1_description": "**Vote para FlazeBot**\n[Top.gg do Flaze](https://top.gg/bot/812993088749961236)\n[Disbotlist do Flaze](https://disbotlist.xyz/bot/812993088749961236#)\n[Discordbotlist.com do Flaze](https://discordbotlist.com/bots/flaze)\n\n**Vote para Flaze Incorporated™️ (servidor)**\n[Top.gg do Servidor do Flaze](https://top.gg/servers/778284070295175188)\n[ Disbotlist do servidor do Flaze](https://disbotlist.xyz/server/778284070295175188)\n[ Discordbotlist.com do servidor do Flaze](https://discordbotlist.com/servers/flaze-incorporated)\n[Disboard do servidor do flaze](https://disboard.org/fr/server/778284070295175188)",
+   "invite1_title": "Convite",
    "invite1_description": "*Me quer no seu servidor? Me convide :D**"
  }
 ]
