@@ -1,4 +1,4 @@
-<:flaze:905582762231201823> Hey FlazeBot community!
+``:flaze: Hey FlazeBot community!
 
 Today, we are launching the brand **new version** of FlazeBot, the **1.1 version**. Which means we are now passing on **stable builds**. 
 Here is a **recap** of all the **new features** and **modifications** made to **FlazeBot**: 
@@ -15,8 +15,6 @@ Thanks to the FlazeBot translators, we now have **Portuguese language**. **Germa
 
 **Good news** for **developers**, **an API has been** proudly **made** by chredeur (the Flaze owner) to **allow** you **getting** little **informations** about FlazeBot! (Maybe FanBots :shushing_face:)
 
-**Concerning the documentation**, we **added radio status** and all aliases, **playlist** and aliases and **images** were added to **play and leave commands** to make the **understanding easier** :wink:
-
 As an happy ending, **we have answered Discord's questions** about our bot behaviour and maybe **FlazeBot is going an a fresh verifed way**. Happy 1.1 version :tada:
 Changelog made by BENZOOgataga.
-Made with :heart: by chredeur.
+Made with :heart: by chredeur.``
