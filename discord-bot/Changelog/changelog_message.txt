@@ -1,4 +1,4 @@
-<:flaze:905582762231201823> Hey FlazeBot community!
+<:flaze:905582762231201823> Hey FlazeBot community :)
 
 Today, we are launching the brand **new version** of FlazeBot, the **1.1 version**. Which means we are now passing on **stable builds**. 
 Here is a **recap** of all the **new features** and **modifications** made to **FlazeBot**: 
