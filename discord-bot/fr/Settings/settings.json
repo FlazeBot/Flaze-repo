@@ -40,7 +40,7 @@
   "other2_title": "❌ Erreur",
   "other2_description": "**Syntaxe incorrecte, veuillez visiter la [documentation](https://docs.flazebot.com/) pour plus d'informations.**",
   "other3_title": "Settings",
-  "other3_description": "%1settings prefix\n%1settings djrank (None)\n%1settings info\n%1settings language (en/fr/pt)\n%1settings deleteafter (None)\n%1settings restricted_channels (disable)\n%1settings restricted_vc (disable)",
+  "other3_description": "%1settings prefix\n%1settings djrank (None)\n%1settings info\n%1settings language (en/fr/pt/de)\n%1settings deleteafter (None)\n%1settings restricted_channels (disable)\n%1settings restricted_vc (disable)",
   "deleteafter1_title": "❌ Erreur",
   "deleteafter1_description": "**Aucun argument trouvé.**",
   "deleteafter2_title": "❌ Erreur",
