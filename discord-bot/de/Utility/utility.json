@@ -1,0 +1,28 @@
+[
+ {
+  "help1_title": "ℹ️ Help",
+  "help1_description": "**Basic Commands**\n%1play\n%1nowplaying\n%1leave\n\n**Need help ? Visit Flaze bot's [wiki](https://docs.flazebot.com/) and learn more about how it works !**",
+  "help2_title": "❌ Error",
+  "help2_description": "**This command is on cooldown, try again in** `%1`**.**",
+  "help3_title": "Flaze",
+  "help3_description": "My prefix is: `%1`",
+  "other1_title": "❌ Error",
+  "other1_description": "**This command is on cooldown, try again in** `%1`**.**",
+  "other2_title": "BENZOOgataga",
+  "other2_description": "~laughing~ lmao who are you ?",
+  "ping1_title": "📶Pong!",
+  "ping1_description": "**🖥️Server** : %1ms\n⭐**Shard**: %2/%3, %4ms\n**🕑Uptime** : Online since %5d %6h %7min %8s",
+  "discord1_title": "Discord",
+  "discord1_description": "Here is our official Discord server: [discord.flazebot.com](https://discord.flazebot.com/) if you need help click :wink:",
+  "module1_title": "Disabled",
+  "module2_title": "Enabled",
+  "module3_title": "Bot Configuration",
+  "module3_description": "**Prefix :** `%1`\n**Language :** 🇬🇧`English`",
+  "module4_title": "FlazeBot configuration on %1",
+  "module4_description": "**Documentation: https://docs.flazebot.com/**",
+  "vote1_title": "📄Vote",
+  "vote1_description": "**Vote for FlazeBot**\n[Flaze's Top.gg](https://top.gg/bot/812993088749961236)\n[Flaze's Disbotlist.xyz](https://disbotlist.xyz/bot/812993088749961236#)\n[Flaze's Discordbotlist.com](https://discordbotlist.com/bots/flaze)\n\n**Vote for Flaze Incorporated™️**\n[Flaze's Top.gg](https://top.gg/servers/778284070295175188)\n[Flaze's Disbotlist.xyz](https://disbotlist.xyz/server/778284070295175188)\n[Flaze's Discordbotlist.com](https://discordbotlist.com/servers/flaze-incorporated)\n[Flaze's Disboard.org](https://disboard.org/fr/server/778284070295175188)",
+  "invite1_title": "Invite",
+  "invite1_description": "**Want me in your server? Invite me :D**"
+ }
+]
