@@ -17,6 +17,7 @@
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Player/player.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Player/player.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Player/player.json",
+    "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Player/player.json",
     "path": "/Player/"
    }
   ],
@@ -25,6 +26,7 @@
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Logs/logs.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Logs/logs.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Logs/logs.json",
+    "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Logs/logs.json",
     "path": "/Logs/"
    }
   ],
@@ -33,6 +35,7 @@
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Settings/settings.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Settings/settings.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Settings/settings.json",
+    "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Settings/settings.json",
     "path": "/Settings/"
    }
   ],
@@ -41,6 +44,7 @@
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Utility/utility.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Utility/utility.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Utility/utility.json",
+    "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Utility/utility.json",
     "path": "/Utility/"
    }
   ],
@@ -49,6 +53,7 @@
     "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Changelog/changelog.json",
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Changelog/changelog.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Changelog/changelog.json",
+    "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Changelog/changelog.json",
     "path": "/Changelog/"
    }
   ]
