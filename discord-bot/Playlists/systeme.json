@@ -24,6 +24,11 @@
    {
     "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/rap_us.txt"
    }
+  ],
+  "rap_fr": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/rap_fr.txt"
+   }
   ]
  }
 ]
