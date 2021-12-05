@@ -29,6 +29,11 @@
    {
     "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/rap_fr.txt"
    }
+  ],
+  "minecraft": [
+   {
+    "url": "https://github.com/FlazeBot/Flaze-documentation/blob/main/discord-bot/Playlists/minecraft.txt"
+   }
   ]
  }
 ]
