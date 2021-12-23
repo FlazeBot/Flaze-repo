@@ -8,7 +8,8 @@
       "player",
       "settings",
       "utility",
-      "changelog"
+      "changelog",
+      "store"
      ]
    }
   ],
@@ -55,6 +56,15 @@
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Changelog/changelog.json",
     "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Changelog/changelog.json",
     "path": "/Changelog/"
+   }
+  ],
+  "store": [
+   {
+    "en_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/en/Store/store.json",
+    "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Store/store.json",
+    "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Store/store.json",
+    "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Store/store.json",
+    "path": "/Store/"
    }
   ]
  }
