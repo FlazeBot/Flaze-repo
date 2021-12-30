@@ -40,6 +40,8 @@
   "player17_title": "❌ Fehler",
   "player17_description": "Das angegebene Argument ist keine gültige URL",
   "player18_title": "❌ Fehler",
-  "player18_description": "Flaze kann dieses Radio nicht abspielen."
+  "player18_description": "Flaze kann dieses Radio nicht abspielen.",
+  "player19_title": "❌ Fehler",
+  "player19_description": "Diese Gilde ist nicht Premium"
  }
 ] 
