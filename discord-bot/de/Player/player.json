@@ -30,6 +30,16 @@
   "player12_title": "❌ Fehler",
   "player12_description": "Der DJ Modus wurde aktiviert.",
   "player13_title": "❌ Fehler",
-  "player13_description": "Der Befehl für die Lautstärke ist deaktiviert wegen Problemen mit der Leistung, der wird nicht wieder aktiviert. Du kannst die Lautstärke manuell verändern in den Discord Einstellungen."
+  "player13_description": "Der Befehl für die Lautstärke ist deaktiviert wegen Problemen mit der Leistung, der wird nicht wieder aktiviert. Du kannst die Lautstärke manuell verändern in den Discord Einstellungen.",
+  "player14_title": "Flaze",
+  "player14_description": "**:radio: Radio-URL senden** \n\n:warning: Du hast noch 30 Sekunden Zeit",
+  "player15_title": "❌ Fehler",
+  "player15_description": "Verstrichene Zeit",
+  "player16_title": "Flaze",
+  "player16_description": "Anfrage storniert.",
+  "player17_title": "❌ Fehler",
+  "player17_description": "Das angegebene Argument ist keine gültige URL",
+  "player18_title": "❌ Fehler",
+  "player18_description": "Flaze kann dieses Radio nicht abspielen."
  }
 ] 
