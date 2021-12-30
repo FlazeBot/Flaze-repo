@@ -30,6 +30,16 @@
   "player12_title": "❌ Erro",
   "player12_description": "Modo DJ habilitado",
   "player13_title": "❌ Erro",
-  "player13_description": "O comando de volume foi desabilitado por motivos de desempenho, ele não será mais habilitado. Você pode modificar o volume do FlazeBot manualmente com as configurações de usuário do Discord."
+  "player13_description": "O comando de volume foi desabilitado por motivos de desempenho, ele não será mais habilitado. Você pode modificar o volume do FlazeBot manualmente com as configurações de usuário do Discord.",
+  "player14_title": "Flaze",
+  "player14_description": "**:radio: Enviar url de rádio** \n\n:warning: Você tem 30 segundos restantes",
+  "player15_title": "❌ Erro",
+  "player15_description": "Tempo decorrido",
+  "player16_title": "Flaze",
+  "player16_description": "Pedido cancelado.",
+  "player17_title": "❌ Erro",
+  "player17_description": "O argumento fornecido não é um url válido",
+  "player18_title": "❌ Erro",
+  "player18_description": "Flaze não consegue tocar este rádio."
  }
 ]
