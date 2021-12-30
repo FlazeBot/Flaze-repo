@@ -40,6 +40,8 @@
   "player17_title": "❌ Error",
   "player17_description": "Given argument is not a valid url",
   "player18_title": "❌ Error",
-  "player18_description": "Flaze can't play this radio."
+  "player18_description": "Flaze can't play this radio.",
+  "player19_title": "❌ Error",
+  "player19_description": "This guild is not Premium"
  }
 ]
