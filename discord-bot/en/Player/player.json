@@ -30,6 +30,16 @@
   "player12_title": "❌ Error",
   "player12_description": "DJ mode is enabled",
   "player13_title": "❌ Error",
-  "player13_description": "Volume command has been disabled for performance reasons, it will not be enabled anymore. You can modify FlazeBot volume manually with Discord user settings."
+  "player13_description": "Volume command has been disabled for performance reasons, it will not be enabled anymore. You can modify FlazeBot volume manually with Discord user settings.",
+  "player14_title": "Flaze",
+  "player14_description": "**:radio: Send radio url** \n\n:warning: You have 30 seconds left",
+  "player15_title": "❌ Error",
+  "player15_description": "Time elapsed",
+  "player16_title": "Flaze",
+  "player16_description": "Request cancelled.",
+  "player17_title": "❌ Error",
+  "player17_description": "Given argument is not a valid url",
+  "player18_title": "❌ Error",
+  "player18_description": "Flaze can't play this radio."
  }
 ]
