@@ -40,6 +40,8 @@
   "player17_title": "❌ Erreur",
   "player17_description": "Argument invalide (ce n'est pas un lien radio)",
   "player18_title": "❌ Erreur",
-  "player18_description": "Flaze ne peux pas jouer cette radio."
+  "player18_description": "Flaze ne peux pas jouer cette radio.",
+  "player19_title": "❌ Erreur",
+  "player19_description": "Cette guilde n'est pas Premium"
  }
 ]
