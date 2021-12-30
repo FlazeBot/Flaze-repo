@@ -40,6 +40,8 @@
   "player17_title": "❌ Erro",
   "player17_description": "O argumento fornecido não é um url válido",
   "player18_title": "❌ Erro",
-  "player18_description": "Flaze não consegue tocar este rádio."
+  "player18_description": "Flaze não consegue tocar este rádio.",
+  "player19_title": "❌ Erro",
+  "player19_description": "Esta guilda não é Premium"
  }
 ]
