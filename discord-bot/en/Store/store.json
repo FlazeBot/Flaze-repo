@@ -8,6 +8,7 @@
   "chargeback1_description": "**Hi there<a:hello:905578280554467349>!**\n\n**Your license key: ||%1|| has been deleted for the following reason **`chargeback/litige`\n\n**Information about your previous purchase**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage Name: `%4`\nTime: `%5`\nDate: `%6`\n\nℹ️ If you need help or more info about licence key you can check the docs [docs.flazebot.com](https://docs.flazebot.com) or join FlazeBot support server [discord.flazebot.com](https://discord.flazebot.com).",
   "chargeback2_title": "FlazeBot Store",
   "chargeback2_description": "**Payments Chargeback**\n\n**Payment Information**:\nTransaction ID: `%1`\nPayment ID: `%2`\nUser: `%3`\nUser ID: `%4`\nPackage Name: `%5`\nTime: `%6`\nDate: `%7`",
+  "key1_msg0": "**You have %1 key(s)**\n%2",
   "key1_title": "Error",
   "key1_description": "You do not have any Premium license.",
   "key2_title": "Key",
