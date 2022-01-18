@@ -8,6 +8,7 @@
   "chargeback1_description": "**Olá<a:hello:905578280554467349>!**\n\n**Sua chave de licensa: ||%1|| foi excluído pelo seguinte motivo **`chargeback/litige (estorno/contencioso)`\n\n**Informações sobre sua compra anterior**:\n ID da transação: `%2`\nID do pagamento: `%3`\nNome do pacote: `%4`\nTempo: `%5`\nData: `%6`\n\nℹ️ Se você precisar de ajuda ou mais informações sobre a chave de licença, verifique a documentação do bot [docs.flazebot.com](https://docs.flazebot.com) ou entre no servidor de suporte do FlazeBot [discord.flazebot.com](https://discord.flazebot.com).",
   "chargeback2_title": "Loja FlazeBot",
   "chargeback2_description": "**Estorno de pagamentos**\n\n**Informação de pagamento**:\nID da transação: `%1`\nID do pagamento: `%2`\nUsuario: `%3`\nID do usuario: `%4`\nNome do pacote: `%5`\nTempo: `%6`\nData: `%7`",
+  "key1_msg0": "**Você tem %1 chave(s)**\n%2",
   "key1_title": "Erro",
   "key1_description": "Você não tem nenhuma licensa premium",
   "key2_title": "Chave",
