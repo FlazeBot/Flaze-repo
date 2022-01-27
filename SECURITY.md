@@ -13,7 +13,7 @@
 |v0.1-v0.9|Alpha Stage (Developement)|
 |Beta|Beta Testing|
 |v1.0|Stable Build|
-|v1.1|Improvements|
+|v2.0|...|
 
 ## Reporting a Vulnerability
 
