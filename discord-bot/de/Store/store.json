@@ -4,7 +4,7 @@
   "payment1_description": "**Hey:hello:!**\n\n**Hier ist deine Lizenz**: ||%1||\n\n**Informationen über deinen Kauf**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage Name: `%4`\nTime: `%5`\nDate: `%6`\n\n:information_source: Falls du Hilfe brauchst schau dich hier mal um [docs.flazebot.com](https://docs.flazebot.com) oder trete dem FlazeBot support server  bei [discord.flazebot.com](https://discord.flazebot.com).\n❤ ️Vielen Dank für den Kauf.",
   "payment2_title": "FlazeBot Laden",
   "payment2_description": "**Neue Bezahlmöglichkeiten**\n\n**Bezahlungs Informationen**:\nTransaction ID: `%1`\nPayment ID: `%2`\nUser: `%3`\nUser ID: `%4`\nPackage Name: `%5`\nTime: `%6`\nDate: `%7`",
-  "chargeback1_title": "FlazeBot Laden,"
+  "chargeback1_title": "FlazeBot Laden,",
   "chargeback1_description": "**Hey:hello:!**\n\n**Deine Lizenz: ||%1|| wurde wegen folgenden Gründen gelöscht **`chargeback/litige`\n\n**Informationen über deinen vorherigen Kauf.**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage Name: `%4`\nTime: `%5`\nDate: `%6`\n\n:information_source: Falls du Hilfe brauchst schau dich hier mal um [docs.flazebot.com](https://docs.flazebot.com) oder trete dem FlazeBot support server  bei [discord.flazebot.com](https://discord.flazebot.com).",
   "chargeback2_title": "FlazeBot Laden",
   "chargeback2_description": "**Rückbuchung**\n\n**Bezahlungs Infos**:\nTransaction ID: `%1`\nPayment ID: `%2`\nUser: `%3`\nUser ID: `%4`\nPackage Name: `%5`\nTime: `%6`\nDate: `%7`",
