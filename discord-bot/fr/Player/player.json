@@ -42,6 +42,16 @@
   "player18_title": "❌ Erreur",
   "player18_description": "Flaze ne peux pas jouer cette radio.",
   "player19_title": "❌ Erreur",
-  "player19_description": "Cette guilde n'est pas Premium"
+  "player19_description": "Cette guilde n'est pas Premium",
+  "player20_title": "Flaze",
+  "player20_description": "Which filter do you want?",
+  "player21_title": "Flaze",
+  "player21_description": "There is no active filter",
+  "player22_title": "Flaze",
+  "player22_description": "The filters have been removed",
+  "player23_title": "Flaze",
+  "player23_description": "Active Filter",
+  "player24_title": "Flaze",
+  "player24_description": "Filter"
  }
 ]
