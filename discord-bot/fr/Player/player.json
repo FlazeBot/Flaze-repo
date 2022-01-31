@@ -44,14 +44,14 @@
   "player19_title": "❌ Erreur",
   "player19_description": "Cette guilde n'est pas Premium",
   "player20_title": "Flaze",
-  "player20_description": "Which filter do you want?",
+  "player20_description": "Quel filtre voulez-vous activer?",
   "player21_title": "Flaze",
-  "player21_description": "There is no active filter",
+  "player21_description": "Il n'y a pas de filtre actif actuellement",
   "player22_title": "Flaze",
-  "player22_description": "The filters have been removed",
+  "player22_description": "Le filtre a été désactivé.",
   "player23_title": "Flaze",
-  "player23_description": "Active Filter",
+  "player23_description": "Filtre actif",
   "player24_title": "Flaze",
-  "player24_description": "Filter"
+  "player24_description": "Filtre"
  }
 ]
