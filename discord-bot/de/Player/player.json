@@ -42,6 +42,16 @@
   "player18_title": "❌ Fehler",
   "player18_description": "Flaze kann dieses Radio nicht abspielen.",
   "player19_title": "❌ Fehler",
-  "player19_description": "Diese Gilde ist nicht Premium"
+  "player19_description": "Diese Gilde ist nicht Premium",
+  "player20_title": "Flaze",
+  "player20_description": "Welchen Filter möchten Sie aktivieren?",
+  "player21_title": "Flaze",
+  "player21_description": "Es gibt keinen aktiven Filter.",
+  "player22_title": "Flaze",
+  "player22_description": "Der Filter wurde deaktiviert.",
+  "player23_title": "Flaze",
+  "player23_description": "Aktive Filter",
+  "player24_title": "Flaze",
+  "player24_description": "Filter"
  }
 ] 
