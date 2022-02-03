@@ -1,7 +1,7 @@
 [
  {
    "help1_title": "ℹ️ Ajuda",
-   "help1_description": "**Comandos Básicos**\n%1play\n%1nowplaying\n%1leave\n\n**Comandos ? Uma lista completa de comandos está disponível [aqui](https://docs.flazebot.com/commands).**\n**Precisa de ajuda ? Visite a [wiki](https://docs.flazebot.com/) do bot e aprenda mais como isso funciona !**",
+   "help1_description": "**⚙️ Comandos Básicos**\n%1play\n%1nowplaying\n%1leave\n\n**⚠️ Comandos ? Uma lista completa de comandos está disponível [aqui](https://docs.flazebot.com/commands).**\n**❓ Precisa de ajuda ? Visite a [wiki](https://docs.flazebot.com/) do bot e aprenda mais como isso funciona !**",
    "help2_title": "❌ Erro",
    "help2_description": "**Esse comando está em cooldown, tente novamente em** `%1`**.**",
    "help3_title": "Flaze",
