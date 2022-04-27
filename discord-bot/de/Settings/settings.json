@@ -1,5 +1,8 @@
 [
  {
+  "settings0_msg1": "Select A Voice Channel",
+  "settings0_msg2": "Disable",
+  "settings0_msg3": "Finish",
   "prefix1_title": "❌ Fehler",
   "prefix1_description": "**Der Limit von Prefixen ist nur bei 2.**",
   "prefix2_title": "❌ Fehler",
