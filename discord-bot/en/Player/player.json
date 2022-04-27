@@ -1,6 +1,9 @@
 [
  {
   "player0_msg1": "You've chosen **%1**",
+  "player1_msg1": "Select A Filter",
+  "player1_msg2": "Active Filter",
+  "player1_msg3": "Remove Filter",
   "player1_title": "❌ Error",
   "player1_description": "You need to be in a voice channel to use this command!",
   "player2_title": "❌ Error",
