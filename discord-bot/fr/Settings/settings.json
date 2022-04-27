@@ -1,5 +1,8 @@
 [
  {
+  "settings0_msg1": "Select A Voice Channel",
+  "settings0_msg2": "Disable",
+  "settings0_msg3": "Finish",
   "prefix1_title": "❌ Erreur",
   "prefix1_description": "**La limite du préfixe est de deux caractères**",
   "prefix2_title": "❌ Erreur",
@@ -135,6 +138,10 @@
   "restricted_vc19_title": "❌ Erreur",
   "restricted_vc19_description": "**Vous ne pouvez pas choisir le même channel.**",
   "restricted_vc20_title": "❌ Erreur",
-  "restricted_vc20_description": "**Vous ne pouvez pas ajouter FlazeBot dans ce channel.**"
+  "restricted_vc20_description": "**Vous ne pouvez pas ajouter FlazeBot dans ce channel.**",
+  "restricted_vc21_title": "Settings Restricted Voice Channels",
+  "restricted_vc21_description": "Le restriced voice channel a bien êtait configurer."
+  "restricted_vc22_title": "Settings Restricted Voice Channels",
+  "restricted_vc22_description": "Choisissez jusqu'a deux channel (nombre de channel séléctionner: %1)"
  }
 ]
