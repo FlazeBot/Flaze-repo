@@ -8,6 +8,8 @@
   "prefix3_description": "**Dein Prefix hat sich zu** `%1` **verändert.**",
   "prefix4_title": "❌ Fehler",
   "prefix4_description": "**Es wurden keine Argumente eingefügt**",
+  "prefix5_title": "Settings Prefix",
+  "prefix5_description": "Choisissez votre prefix 'cancel' pour annuler",
   "djrank1_title": "❌ Fehler",
   "djrank1_description": "`djrank` **option ist schon zu** `%1` **gesetzt**",
   "djrank3_title": "DJRank",
