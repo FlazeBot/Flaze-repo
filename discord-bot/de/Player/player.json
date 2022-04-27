@@ -1,6 +1,9 @@
 [
  {
   "player0_msg1": "Du hast **%1** gewählt!",
+  "player1_msg1": "Select A Filter",
+  "player1_msg2": "Active Filter",
+  "player1_msg3": "Remove Filter",
   "player1_title": "❌ Fehler",
   "player1_description": "Du musst im gleichen Sprachkanal sein um den Befehl nutzen zu können!",
   "player2_title": "❌ Fehler",
