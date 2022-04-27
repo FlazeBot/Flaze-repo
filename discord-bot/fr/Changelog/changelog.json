@@ -15,7 +15,7 @@
   "changelog7_title": "❌ Erreur",
   "changelog7_description": "**Vous ne pouvez pas faire ça pour le moment**",
   "changelog8_title": "Changelog",
-  "changelog8_description": "Veuillez choisir le channel ou se trouveront les changelogs (spécifiez `ID` ou `nom` du channel)\nTapez `cancel` pour annuler.",
+  "changelog8_description": "Veuillez choisir le channel ou se trouveront les changelogs.",
   "changelog9_title": "❌ Erreur",
   "changelog9_description": "Limite d'erreurs atteinte (3 maximum)",
   "changelog10_title": "❌ Erreur",
