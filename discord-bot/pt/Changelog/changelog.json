@@ -15,7 +15,7 @@
   "changelog7_title": "❌ Erro",
   "changelog7_description": "**Você não pode fazer isso nesse momento.**",
   "changelog8_title": "ChangeLog",
-  "changelog8_description": "Por favor, escolha o canal onde os changelogs estarão (Especifique `ID` ou` nome` do canal)\nEscreva `cancel` para sair.",
+  "changelog8_description": "Por favor, escolha o canal onde os changelogs estarão.",
   "changelog9_title": "❌ Erro",
   "changelog9_description": "Limite de erros atingido (máximo de 3)",
   "changelog10_title": "❌ Erro",
