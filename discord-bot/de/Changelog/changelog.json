@@ -15,7 +15,7 @@
   "changelog7_title": "❌ Fehler",
   "changelog7_description": "**Du kannst dies grad nicht tun.**",
   "changelog8_title": "Neuigkeiten",
-  "changelog8_description": "Bitte, wähle den Kanal für die Neuigkeiten vom Bot. (Nehme die `ID` oder den `namen` vom Kanal)\nTippe `cancel` um abzubrechen.",
+  "changelog8_description": "Bitte, wähle den Kanal für die Neuigkeiten vom Bot.",
   "changelog9_title": "❌ Fehler",
   "changelog9_description": "Fehler Limit erreicht (3 maximal)",
   "changelog10_title": "❌ Fehler",
