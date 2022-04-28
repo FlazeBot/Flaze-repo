@@ -74,6 +74,8 @@
   "autoreconnect5_description": "**L'option** `autoreconnect` **est déjà réglé sur** `%1`**.**",
   "autoreconnect6_title": "AutoReconnect",
   "autoreconnect6_description": "**L'option** `autoreconnect` **est maintenant réglée sur** `%1`**.**",
+  "autoreconnect7_title": "Settings AutoReconnect",
+  "autoreconnect7_description": "**Activé ou Désactivé AutoReconnect.**",
   "restricted_channels1_title": "🛡️ Restricted Channels",
   "restricted_channels2_title": "1️⃣ Restricted Channel",
   "restricted_channels3_title": "2️⃣ Restricted Channels",
