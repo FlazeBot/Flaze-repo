@@ -91,7 +91,7 @@
   "restricted_channels11_title": "Erreur",
   "restricted_channels11_description": "**Invalid channel type.**",
   "restricted_channels12_title": "Settings",
-  "restricted_channels12_description": "Do you want a message to be sent if a command is executed in a channel other than the restricted_channels? Answer by `True` (Yes) or `False` (No)\nType `cancel` to exit.",
+  "restricted_channels12_description": "Do you want a message to be sent if a command is executed in a channel other than the restricted_channels? Answer by `True` (Yes) or `False` (No).",
   "restricted_channels13_title": "Erreur",
   "restricted_channels13_description": "**There is a problem 🤨.**",
   "restricted_channels14_title": "Settings",
