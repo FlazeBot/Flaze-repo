@@ -72,6 +72,8 @@
   "autoreconnect5_description": "**Die `autoreconnect` **option ist schon zu** `%1` **gesetzt.**",
   "autoreconnect6_title": "Automatisches Wiederverbinden",
   "autoreconnect6_description": "`autoreconnect` **option ist jetzt zu** `%1` **gesetzt.**",
+  "autoreconnect7_title": "Settings AutoReconnect",
+  "autoreconnect7_description": "**Activé ou Désactivé AutoReconnect.**",
   "restricted_channels1_title": "🛡️ Beschränkte Kanäle",
   "restricted_channels2_title": "1️⃣ Beschränkte Kanäle",
   "restricted_channels3_title": "2️⃣ Beschränkte Kanäle",
