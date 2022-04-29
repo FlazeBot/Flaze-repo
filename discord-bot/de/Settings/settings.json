@@ -152,7 +152,7 @@
   "restricted_vc20_title": "Fehler",
   "restricted_vc20_description": "**Du kannst FlazeBot nicht dazu bringen diesem Sprachkanal beigetreten.**",
   "restricted_vc21_title": "Settings Restricted Voice Channels",
-  "restricted_vc21_description": "Le restriced voice channel a bien êtait configurer."
+  "restricted_vc21_description": "Le restriced voice channel a bien êtait configurer.",
   "restricted_vc22_title": "Settings Restricted Voice Channels",
   "restricted_vc22_description": "Choisissez jusqu'a deux channel (nombre de channel séléctionner: %1)"
  }
