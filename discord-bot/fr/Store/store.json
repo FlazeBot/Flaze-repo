@@ -38,6 +38,8 @@
   "key10_title": "Erreur",
   "key10_description": "La clé de license Premium ne peux pas être supprimée.",
   "key11_title": "Clé de license",
-  "key11_description": "La clé a bien été supprimée et peux maintenant être activée sur un autre serveur Discord."
+  "key11_description": "La clé a bien été supprimée et peux maintenant être activée sur un autre serveur Discord.",
+  "key12_title": "Erreur",
+  "key12_description": "**Argument invalide !**"
  }
 ]
