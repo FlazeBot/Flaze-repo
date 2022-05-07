@@ -38,6 +38,8 @@
   "key10_title": "Error",
   "key10_description": "This license key cannot be removed.",
   "key11_title": "Key",
-  "key11_description": "License key has been correctly removed from server and can now be used on another Discord server."
+  "key11_description": "License key has been correctly removed from server and can now be used on another Discord server.",
+  "key12_title": "Erreur",
+  "key12_description": "**Argument invalide !**"
  }
 ]
