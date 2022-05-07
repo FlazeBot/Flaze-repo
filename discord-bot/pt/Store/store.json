@@ -38,6 +38,8 @@
   "key10_title": "Erro",
   "key10_description": "Essa chave de licensa não pode ser removida.",
   "key11_title": "Chave",
-  "key11_description": "A chave de licença foi removida corretamente do servidor e agora pode ser usada em outro servidor."
+  "key11_description": "A chave de licença foi removida corretamente do servidor e agora pode ser usada em outro servidor.",
+  "key12_title": "Erreur",
+  "key12_description": "**Argument invalide !**"
  }
 ]
