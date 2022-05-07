@@ -11,7 +11,7 @@
   "chargeback1_description": "**Salut <a:hello:905578280554467349> !**\n\n**Votre clé de license Premium: ||%1|| a été supprimée pour la/les raison(s) suivante **`chargeback/litige`\n\n**Informations de votre précédent achat**:\n ID de transaction: `%2`\nID de paiement: `%3`\nNom de l'article: `%4`\nHoraire: `%5`\nDate: `%6`\n\nℹ️ Si vous avez besoin d'informations a propos de votre achat, veuillez vous référer a la documentation [docs.flazebot.com](https://docs.flazebot.com) ou rejoignez le serveur Discord de support [discord.flazebot.com](https://discord.flazebot.com).",
   "chargeback2_title": "Boutique FlazeBot",
   "chargeback2_description": "**Chargeback d'un paiement**\n\n**Informations de paiement**:\nID de transaction: `%1`\nID de paiement: `%2`\nUtilisateur: `%3`\nID de l'utilisateur: `%4`\nNom de l'article: `%5`\nHoraire: `%6`\nDate: `%7`",
-  "key1_msg0": "**Vous possédez %1 clé(s)**\n%2",
+  "key1_msg0": "**Vous possédez %1 clé(s)**",
   "key1_msg2": "Show Keys",
   "key1_msg3": "Guild Remove",
   "key1_msg4": "Expiration:",
