@@ -11,7 +11,7 @@
   "chargeback1_description": "**Hey:hello:!**\n\n**Deine Lizenz: ||%1|| wurde wegen folgenden Gründen gelöscht **`chargeback/litige`\n\n**Informationen über deinen vorherigen Kauf.**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage Name: `%4`\nTime: `%5`\nDate: `%6`\n\n:information_source: Falls du Hilfe brauchst schau dich hier mal um [docs.flazebot.com](https://docs.flazebot.com) oder trete dem FlazeBot support server  bei [discord.flazebot.com](https://discord.flazebot.com).",
   "chargeback2_title": "FlazeBot Laden",
   "chargeback2_description": "**Rückbuchung**\n\n**Bezahlungs Infos**:\nTransaction ID: `%1`\nPayment ID: `%2`\nUser: `%3`\nUser ID: `%4`\nPackage Name: `%5`\nTime: `%6`\nDate: `%7`",
-  "key1_msg0": "**Du hast %1 key(s)**\n%2",
+  "key1_msg0": "**Du hast %1 key(s)**",
   "key1_msg2": "Show Keys",
   "key1_msg3": "Guild Remove",
   "key1_msg4": "Expiration:",
