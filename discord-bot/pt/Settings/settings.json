@@ -8,7 +8,7 @@
   "settings0_msg6": "Disable Djrank",
   "settings0_msg7": "Select A Role",
   "settings1_title": "Settings",
-  "settings1_description": "Choisissez le paramètre que vous souhaitez modifié",
+  "settings1_description": "Choose the setting you want to change",
   "prefix1_title": "❌ Erro",
   "prefix1_description": "**O limite do prefixo é de apenas dois caracteres**",
   "prefix2_title": "❌ Erro",
@@ -151,9 +151,9 @@
   "restricted_vc19_description": "**Você não pode escolher o mesmo canal.**",
   "restricted_vc20_title": "❌ Erro",
   "restricted_vc20_description": "**Você não pode fazer o FlazeBot entrar neste canal.**",
-  "restricted_vc21_title": "Settings Restricted Voice Channels",
-  "restricted_vc21_description": "Le restriced voice channel a bien êtait configurer.",
-  "restricted_vc22_title": "Settings Restricted Voice Channels",
-  "restricted_vc22_description": "Choisissez jusqu'a deux channel (nombre de channel séléctionner: %1)"
+  "restricted_vc21_title": "Restricted Voice Channels Settings",
+  "restricted_vc21_description": "Restricted Voice Channels has correctly been configured.",
+  "restricted_vc22_title": "Restricted Voice Channels Settings",
+  "restricted_vc22_description": "Choose up to two channels (Number of selected channels: %1)"
  }
 ]
