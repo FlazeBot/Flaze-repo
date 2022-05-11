@@ -1,6 +1,6 @@
 [
- {
-  "changelog0_msg1": "Select A Text Channel",
+ { // DON'T TOUCH TO VALUES (Values are like %1, you can change the place of it in the translation but don't change it, %1 stays %1 Thanks!)
+  "changelog0_msg1": "Select a Text Channel",
   "changelog0_msg2": "Disable",
   "changelog1_title": "Changelog",
   "changelog1_description": "%1changelog enable\n%1changelog disable\n%1changelog info",
@@ -35,7 +35,7 @@
   "changelog16_title": "❌ Error",
   "changelog16_description": "**Incorrect syntax**",
   "changelog17_title": "❌ Error",
-  "changelog17_description": "**You don't have permission.**",
+  "changelog17_description": "**You don't have permissions.**",
   "changelog18_msg": "<:jaivolerdiscord:905917097203335268>     FlazeBot updates will be sent here from now on."
  }
 ]
