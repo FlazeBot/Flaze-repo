@@ -1,22 +1,22 @@
 [
  {
   "payment1_title": "Loja FlazBot",
-  "payment1_description": "**Salut <a:hello:905578280554467349>!** !\n\n**Voici ta clé de license Premium**: ||%1||\n\n**Détails de la commande**:\n ID de transaction: `%2`\nID de paiement: `%3`\nNom de l'article: `%4`\nHoraire: `%5`\nDate: `%6`\n\nℹ️ Si vous avez besoin d'informations a propos de votre achat, veuillez vous référer a la documentation [docs.flazebot.com](https://docs.flazebot.com) ou rejoignez le serveur Discord de support [discord.flazebot.com](https://discord.flazebot.com).\n❤ ️Merci de nous accorder votre confiance et d'avoir passé commande chez FlazeBot.",
-  "payment1_description2": "**Salut <a:hello:905578280554467349>!** !\n\n**La clé de license Premium qui a été renouvelé est**: ||%1||\n\n**Détails de la commande**:\n ID de transaction: `%2`\nID de paiement: `%3`\nNom de l'article: `%4`\nHoraire: `%5`\nDate: `%6`\nExpiration: %7\n\nℹ️ Si vous avez besoin d'informations a propos de votre achat, veuillez vous référer a la documentation [docs.flazebot.com](https://docs.flazebot.com) ou rejoignez le serveur Discord de support [discord.flazebot.com](https://discord.flazebot.com).\n❤ ️Merci de nous accorder votre confiance et d'avoir passé commande chez FlazeBot.",
-  "payment1_description3": "**Salut <a:hello:905578280554467349>!** !\n\n**Voici ta clé de license Premium mensuelle**: ||%1||\n\n**Détails de la commande**:\n ID de transaction: `%2`\nID de paiement: `%3`\nNom de l'article: `%4`\nHoraire: `%5`\nDate: `%6`\nExpiration: %7\n\nℹ️ Si vous avez besoin d'informations a propos de votre achat, veuillez vous référer a la documentation [docs.flazebot.com](https://docs.flazebot.com) ou rejoignez le serveur Discord de support [discord.flazebot.com](https://discord.flazebot.com).\n❤ ️Merci de nous accorder votre confiance et d'avoir passé commande chez FlazeBot.",
+  "payment1_description": "**Hey <a:hello:905578280554467349>!** !\n\n**Here is your license key**: ||%1||\n\n**Order details**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage name: `%4`\nTime: `%5`\nDate: `%6`\n\nℹ️ If you need more informations, please refer to the documentation at [docs.flazebot.com](https://docs.flazebot.com) or join Flaze's official Discord server at [discord.flazebot.com](https://discord.flazebot.com).\n❤ ️Thank you for according us your trust, FlazeBot Team.",
+  "payment1_description2": "**Hey <a:hello:905578280554467349>!** !\n\n**The license key which was renewed is**: ||%1||\n\n**Order details**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage name: `%4`\nTime: `%5`\nDate: `%6`\nExpiration: %7\n\nℹ️ If you need more informations, please refer to the documentation at [docs.flazebot.com](https://docs.flazebot.com) or join Flaze's official Discord server at [discord.flazebot.com](https://discord.flazebot.com).\n❤ ️Thank you for according us your trust, FlazeBot Team.",
+  "payment1_description3": "**Hey <a:hello:905578280554467349>!** !\n\n**Here is your monthly license key**: ||%1||\n\n**Order details**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage name: `%4`\nTime: `%5`\nDate: `%6`\nExpiration: %7\n\nℹ️ If you need more informations, please refer to the documentation at [docs.flazebot.com](https://docs.flazebot.com) or join Flaze's official Discord server at [discord.flazebot.com](https://discord.flazebot.com).\n❤ ️Thank you for according us your trust, FlazeBot Team.",
   "payment2_title": "Loja FlazeBot",
   "payment2_description": "**Novos Pagamentos**\n\n**Informações do pagamento**:\nID da transação: `%1`\nID do pagamento: `%2`\nUsuario: `%3`\nID do usuario: `%4`\nNome do pacote: `%5`\nTempo: `%6`\nDate: `%7`",
   "payment2_description2": "**Nouveau paiement**\n\n**Information de paiement**:\nTransaction ID: `%1`\nPayment ID: `%2`\nUser: `%3`\nUser ID: `%4`\nPackage Name: `%5`\nTime: `%6`\nDate: `%7`\nExpiration: %8",
   "chargeback1_title": "Loja FlazeBot",
-  "chargeback1_description": "**Olá<a:hello:905578280554467349>!**\n\n**Sua chave de licensa: ||%1|| foi excluído pelo seguinte motivo **`chargeback/litige (estorno/contencioso)`\n\n**Informações sobre sua compra anterior**:\n ID da transação: `%2`\nID do pagamento: `%3`\nNome do pacote: `%4`\nTempo: `%5`\nData: `%6`\n\nℹ️ Se você precisar de ajuda ou mais informações sobre a chave de licença, verifique a documentação do bot [docs.flazebot.com](https://docs.flazebot.com) ou entre no servidor de suporte do FlazeBot [discord.flazebot.com](https://discord.flazebot.com).",
+  "chargeback1_description": "**Hi there<a:hello:905578280554467349>!**\n\n**Your license key: ||%1|| has been deleted for the following reason **`chargeback/dispute`\n\n**Information about your previous purchase**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage Name: `%4`\nTime: `%5`\nDate: `%6`\n\nℹ️ If you need more informations, please refer to the documentation at [docs.flazebot.com](https://docs.flazebot.com) or join Flaze's official Discord server at [discord.flazebot.com](https://discord.flazebot.com).",
   "chargeback2_title": "Loja FlazeBot",
   "chargeback2_description": "**Estorno de pagamentos**\n\n**Informação de pagamento**:\nID da transação: `%1`\nID do pagamento: `%2`\nUsuario: `%3`\nID do usuario: `%4`\nNome do pacote: `%5`\nTempo: `%6`\nData: `%7`",
   "key1_msg0": "**Você tem %1 chave(s)**",
-  "key1_msg2": "Show Keys",
+  "key1_msg2": "Show your keys",
   "key1_msg3": "Guild Remove",
   "key1_msg4": "Expiration:",
-  "key1_msg5": "Month %1 clé(s)",
-  "key1_msg6": "Lifetime %1 clé(s)",
+  "key1_msg5": "%1 Monthly keys ",
+  "key1_msg6": "%1 Lifetime keys",
   "key1_title": "Erro",
   "key1_description": "Você não tem nenhuma licensa premium",
   "key2_title": "Chave",
@@ -40,6 +40,6 @@
   "key11_title": "Chave",
   "key11_description": "A chave de licença foi removida corretamente do servidor e agora pode ser usada em outro servidor.",
   "key12_title": "Erreur",
-  "key12_description": "**Argument invalide !**"
+  "key12_description": "**Invalid argument!**"
  }
 ]
