@@ -1,5 +1,5 @@
 [
- { // DON'T TOUCH TO VALUES (Values are like %1, you can change the place of it in the translation but don't change it, %1 stays %1 Thanks!)
+ {
   "settings0_msg1": "Select a Voice Channel",
   "settings0_msg2": "Disable",
   "settings0_msg3": "Finish",

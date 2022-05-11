@@ -1,6 +1,6 @@
 [
- { // DON'T TOUCH TO VALUES (Values are like %1, you can change the place of it in the translation but don't change it, %1 stays %1 Thanks!)
-  "player0_msg1": "You've chosen **%1**", // %1 value is the chosen filter
+ {
+  "player0_msg1": "You've chosen **%1**",
   "player1_msg1": "Select A Filter",
   "player1_msg2": "Active Filter",
   "player1_msg3": "Remove Filter",
