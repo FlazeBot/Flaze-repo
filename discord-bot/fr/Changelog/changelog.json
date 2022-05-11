@@ -1,7 +1,7 @@
 [
  {
-  "changelog0_msg1": "Select A Text Channel",
-  "changelog0_msg2": "Disable",
+  "changelog0_msg1": "Choisissez un salon textuel",
+  "changelog0_msg2": "Désactiver",
   "changelog1_title": "Changelog",
   "changelog1_description": "%1changelog enable\n%1changelog disable\n%1changelog info",
   "changelog2_title": "❌ Erreur",
@@ -17,7 +17,7 @@
   "changelog7_title": "❌ Erreur",
   "changelog7_description": "**Vous ne pouvez pas faire ça pour le moment**",
   "changelog8_title": "Changelog",
-  "changelog8_description": "Veuillez choisir le channel ou se trouveront les changelogs.",
+  "changelog8_description": "Veuillez choisir le channel où se trouveront les changelogs.",
   "changelog9_title": "❌ Erreur",
   "changelog9_description": "Limite d'erreurs atteinte (3 maximum)",
   "changelog10_title": "❌ Erreur",

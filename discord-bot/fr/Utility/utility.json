@@ -1,7 +1,7 @@
 [
  {
   "help1_title": "ℹ️ Help",
-  "help1_description": "**⚙️ Commandes Basic**\n%1play\n%1nowplaying\n%1leave\n\n**⚠️ Les Commandes ? Une liste complète des commandes est disponible [ici](https://docs.flazebot.com/commands).**\n**❓ Besoin d'aide ? Visitez [la documentation](https://docs.flazebot.com/) de Flaze bot et apprenez-en plus sur son fonctionnement !**",
+  "help1_description": "**⚙️ Commandes Basiques**\n%1play\n%1nowplaying\n%1leave\n\n**⚠️ Les Commandes ? Une liste complète des commandes est disponible [ici](https://docs.flazebot.com/commands).**\n**❓ Besoin d'aide ? Visitez [la documentation](https://docs.flazebot.com/) de Flaze bot et apprenez-en plus sur son fonctionnement !**",
   "help2_title": "❌ Erreur",
   "help2_description": "**Cette commande est en cooldown, réessayez dans** `%1`**.**",
   "help3_title": "Flaze",
@@ -13,7 +13,7 @@
   "ping1_title": "📶Pong!",
   "ping1_description": "**🖥️Serveur** : %1ms\n⭐**Shard**: %2/%3, %4ms\n**🕑Uptime** : En ligne depuis %5j %6h %7min %8s",
   "discord1_title": "Discord",
-  "discord1_description": "Voici le discord de flaze: [discord.flazebot.com](https://discord.flazebot.com) si vous avez besoin d'aide cliquez :wink:",
+  "discord1_description": "Voici le serveur Discord officiel de Flaze: [discord.flazebot.com](https://discord.flazebot.com) si vous avez besoin d'aide cliquez :wink:",
   "module1_title": "Désactivé",
   "module2_title": "Activé",
   "module3_title": "Configuration du Bot",
@@ -24,7 +24,7 @@
   "vote1_description": "**Votez pour FlazeBot**\n[Flaze's Top.gg](https://top.gg/bot/812993088749961236)\n[Flaze's Consteagle.com](https://consteagle.com/bots/812993088749961236/)\n[Flaze's Disbotlist.xyz](https://disbotlist.xyz/bot/812993088749961236#)\n[Flaze's Discordbotlist.com](https://discordbotlist.com/bots/flaze)\n\n**Votez pour Flaze Incorporated™️**\n[Flaze's Top.gg](https://top.gg/servers/778284070295175188)\n[Flaze's Disbotlist.xyz](https://disbotlist.xyz/server/778284070295175188)\n[Flaze's Discordbotlist.com](https://discordbotlist.com/servers/flaze-incorporated)\n[Flaze's Disboard.org](https://disboard.org/fr/server/778284070295175188)",
   "invite1_title": "Invite",
   "invite1_description": "**Vous voulez de moi sur votre serveur ? Invitez-moi :D**",
-  "host1_title": "Host",
-  "host1_description": "**Tu cherche un hébergeur fiable et pas cher avec un bon uptime fait comme FlazeBot choisi [RedHeberg.fr](https://redheberg.fr/)**"
+  "host1_title": "Hébergeur",
+  "host1_description": "**Tu cherches un hébergeur fiable, pas cher avec un bon uptime ? Fais comme Flaze ! Choisit la facilité, va chez [RedHeberg.fr](https://redheberg.fr/)**"
  }
 ]
