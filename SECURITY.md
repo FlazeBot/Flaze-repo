@@ -4,7 +4,7 @@
 
 |Version|Description|
 |-------|------------------|
-|v1.0|FlazeBot is under developement but Beta Testing (quite stable)|
+|v1.0|Stable Build|
 
 ## Versions
 
@@ -13,7 +13,7 @@
 |v0.1-v0.9|Alpha Stage (Developement)|
 |Beta|Beta Testing|
 |v1.0|Stable Build|
-|v2.0|...|
+|v2.0|Check our Discord for news|
 
 ## Reporting a Vulnerability
 
