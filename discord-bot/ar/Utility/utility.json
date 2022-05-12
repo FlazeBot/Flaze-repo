@@ -1,0 +1,31 @@
+[
+    {
+     "help1_title": "ℹ️ المساعدة",
+     "help1_description": "**⚙️ الأوامر الأساسية**\n%1play\n%1nowplaying\n%1leave\n\n**⚠️ أين الأوامر ? جميع الأوامر متوفرة [هنا](https://docs.flazebot.com/commands).**\n**❓ أريد مساعده ? قم بزيارة [الدليل](https://docs.flazebot.com/) لتجد تفاصيل العمل !**",
+     "help2_title": "❌ خطأ",
+     "help2_description": "**هذا الأمر في فترة الانتظار ، حاول مرة أخرى بعد** `%1`**.**",
+     "help3_title": "Flaze",
+     "help3_description": "البادئة: `%1`",
+     "other1_title": "❌ خطأ",
+     "other1_description": "**هذا الأمر في فترة الانتظار ، حاول مرة أخرى بعد** `%1`**.**",
+     "other2_title": "BENZOOgataga",
+     "other2_description": "~أوه~ من أنت ?",
+     "ping1_title": "📶Pong!",
+     "ping1_description": "**🖥️الخادم** : %1ms\n⭐**الشارد**: %2/%3, %4ms\n**🕑مدة التشغيل** : يعمل منذ %5d %6h %7min %8s",
+     "discord1_title": "الديسكورد",
+     "discord1_description": "هنا سوف تجد رابط الدعم الفني: [discord.flazebot.com](https://discord.flazebot.com/) إذا كنت تحتاج إلى مساعدة :wink:",
+     "module1_title": "إيقاف",
+     "module2_title": "تشغيل",
+     "module3_title": "إعدادت الخادم",
+     "module3_description": "**البادئة :** `%1`\n**اللغة :** 🇵🇸`العربية`",
+     "module4_title": "FlazeBot's معد على %1",
+     "module4_description": "**Documentation: https://docs.flazebot.com/**",
+     "vote1_title": "📄التصويت",
+     "vote1_description": "**صوت لـ FlazeBot**\n[Flaze's Top.gg](https://top.gg/bot/812993088749961236)\n[Flaze's Consteagle.com](https://consteagle.com/bots/812993088749961236/)\n[Flaze's Disbotlist.xyz](https://disbotlist.xyz/bot/812993088749961236#)\n[Flaze's Discordbotlist.com](https://discordbotlist.com/bots/flaze)\n\n**صوت إلى خادم FlazeBot™️**\n[Flaze's Top.gg](https://top.gg/servers/778284070295175188)\n[Flaze's Disbotlist.xyz](https://disbotlist.xyz/server/778284070295175188)\n[Flaze's Discordbotlist.com](https://discordbotlist.com/servers/flaze-incorporated)\n[Flaze's Disboard.org](https://disboard.org/fr/server/778284070295175188)",
+     "invite1_title": "إضافة",
+     "invite1_description": "**تريدني في خادمك؟ اضفني :D**",
+     "host1_title": "المضيف",
+     "host1_description": "**هل تبحث عن خدمة استضافة جيدة حقًا وموثوقة ورخيصة وذات وقت تشغيل جيد؟ اتبع FlazeBot واختر منشأة مع [RedHeberg.fr](https://redheberg.fr/)**"
+    }
+   ]
+   
