@@ -4,7 +4,7 @@
 
 |Version|Description|
 |-------|------------------|
-|v1.0|Stable Build|
+|v1.1|Stable Build|
 
 ## Versions
 
@@ -13,6 +13,7 @@
 |v0.1-v0.9|Alpha Stage (Developement)|
 |Beta|Beta Testing|
 |v1.0|Stable Build|
+|v1.1|[Check the v1.1 changelog](https://github.com/FlazeBot/Flaze-documentation/blob/main/versions_changelogs/version_1.1.md)|
 |v2.0|Check our Discord for news|
 
 ## Reporting a Vulnerability
