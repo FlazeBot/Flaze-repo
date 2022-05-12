@@ -21,4 +21,4 @@ Also, GitHub releases are not official ones, if you see that it's under develope
 
 ## Reporting a Vulnerability
 
-For any vulnerability injuring our Discord bot or our Support Discord Server, please feel free to contact @chredeur0 or @BENZOOgataga via Discord here: https://discord.flazebot.com/
+For any vulnerability injuring our Discord bot or our Support Discord Server, please feel free to contact [@chredeur](https://github.com/chredeur0) or [@BENZOOgataga](https://github.com/BENZOOgataga) via Discord here: https://discord.flazebot.com/
