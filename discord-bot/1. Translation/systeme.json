@@ -19,7 +19,7 @@
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Player/player.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Player/player.json",
     "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Player/player.json",
-    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Player/player.json",
+    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/ar/Player/player.json",
     "path": "/Player/"
    }
   ],
@@ -29,7 +29,7 @@
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Logs/logs.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Logs/logs.json",
     "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Logs/logs.json",
-    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Logs/logs.json",
+    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/ar/Logs/logs.json",
     "path": "/Logs/"
    }
   ],
@@ -39,7 +39,7 @@
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Settings/settings.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Settings/settings.json",
     "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Settings/settings.json",
-    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Settings/settings.json",
+    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/ar/Settings/settings.json",
     "path": "/Settings/"
    }
   ],
@@ -49,7 +49,7 @@
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Utility/utility.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Utility/utility.json",
     "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Utility/utility.json",
-    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Utility/utility.json",
+    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/ar/Utility/utility.json",
     "path": "/Utility/"
    }
   ],
@@ -59,7 +59,7 @@
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Changelog/changelog.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Changelog/changelog.json",
     "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Changelog/changelog.json",
-    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Changelog/changelog.json",
+    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/ar/Changelog/changelog.json",
     "path": "/Changelog/"
    }
   ],
@@ -69,7 +69,7 @@
     "fr_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/fr/Store/store.json",
     "pt_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/pt/Store/store.json",
     "de_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Store/store.json",
-    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/de/Store/store.json",
+    "ar_url": "https://raw.githubusercontent.com/FlazeBot/Flaze-documentation/main/discord-bot/ar/Store/store.json",
     "path": "/Store/"
    }
   ]
