@@ -25,6 +25,8 @@
   "invite1_title": "Invite",
   "invite1_description": "**Willst du mich in deinem Server? Lad mich ein :D**",
   "host1_title": "Host",
-  "host1_description": "**You're searching a really good hosting service which is reliable, cheap and has a good uptime? Follow FlazeBot and choose facility with [RedHeberg.fr](https://redheberg.fr/)**"
+  "host1_description": "**You're searching a really good hosting service which is reliable, cheap and has a good uptime? Follow FlazeBot and choose facility with [RedHeberg.fr](https://redheberg.fr/)**",
+  "premium1_title": "Premium",
+  "premium1_description": "<:flaze_premium:942463494937256017> To buy a premium license, please go to [our store](https://flazebot.tebex.io/)\n\n🎫 Contact us on [our official Discord](https://discord.flazebot.com/) if you have any issues.\n\n📚 If you have any questions relating to Flaze Premium you can go to the [Premium FAQ](https://flazebot.tebex.io/faq) on our store!\n\n<:invite:922589360216494100> Invite Flaze Premium once you have a Premium key, you can do this [here](https://discord.com/oauth2/authorize?client_id=940697263347494945&permissions=6982921545&redirect_uri=https%3A%2F%2Fflazebot.com&response_type=code&scope=bot%20applications.commands)"
  }
 ]
