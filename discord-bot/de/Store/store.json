@@ -6,7 +6,7 @@
   "payment1_description3": "**Hey <a:hello:905578280554467349>!** !\n\n**Here is your monthly license key**: ||%1||\n\n**Order details**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage name: `%4`\nTime: `%5`\nDate: `%6`\nExpiration: %7\n\nℹ️ If you need more informations, please refer to the documentation at [docs.flazebot.com](https://docs.flazebot.com) or join Flaze's official Discord server at [discord.flazebot.com](https://discord.flazebot.com).\n❤ ️Thank you for according us your trust, FlazeBot Team.",
   "payment2_title": "FlazeBot Laden",
   "payment2_description": "**Neue Bezahlmöglichkeiten**\n\n**Bezahlungs Informationen**:\nTransaction ID: `%1`\nPayment ID: `%2`\nUser: `%3`\nUser ID: `%4`\nPackage Name: `%5`\nTime: `%6`\nDate: `%7`",
-  "payment2_description2": "**Nouveau paiement**\n\n**Information de paiement**:\nTransaction ID: `%1`\nPayment ID: `%2`\nUser: `%3`\nUser ID: `%4`\nPackage Name: `%5`\nTime: `%6`\nDate: `%7`\nExpiration: %8",
+  "payment2_description2": "**New Payments**\n\n**Payment Informations**:\nTransaction ID: `%1`\nPayment ID: `%2`\nUser: `%3`\nUser ID: `%4`\nPackage Name: `%5`\nTime: `%6`\nDate: `%7`\nExpiration: %8",
   "chargeback1_title": "FlazeBot Laden,",
   "chargeback1_description": "**Hi there<a:hello:905578280554467349>!**\n\n**Your license key: ||%1|| has been deleted for the following reason **`chargeback/dispute`\n\n**Information about your previous purchase**:\n Transaction ID: `%2`\nPayment ID: `%3`\nPackage Name: `%4`\nTime: `%5`\nDate: `%6`\n\nℹ️ If you need more informations, please refer to the documentation at [docs.flazebot.com](https://docs.flazebot.com) or join Flaze's official Discord server at [discord.flazebot.com](https://discord.flazebot.com).",
   "chargeback2_title": "FlazeBot Laden",
