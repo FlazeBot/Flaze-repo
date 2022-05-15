@@ -7,8 +7,8 @@ Ah yes, FlazeBot Store : https://flazebot.tebex.io/
 
 <:flaze:905582762231201823> FLAZE
 <:t_:820415154096439366> ﹂ Flaze come back in channel when restarting. My dad didn't... (AutoReconnect option in settings)
-<:t_:820415154096439366> ﹂ +volume's back (Premium only)
-<:t_:820415154096439366> ﹂ +filter (Premium only)
+<:t_:820415154096439366> ﹂ `/volume`'s back (Premium only)
+<:t_:820415154096439366> ﹂ `/filter` (Premium only)
 <:t_:820415154096439366> ﹂ Prefix commands are not supported anymore, you may now use slash commands or mention FlazeBot if you still want to use prefix commands.
 <:t_:820415154096439366> ﹂ Documentation has been updated, and can now join the dark side of the force... (Dark mode)
 
