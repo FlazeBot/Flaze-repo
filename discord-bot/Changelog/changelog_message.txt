@@ -6,28 +6,28 @@ New Discord bot for premiums users (those who have a premium key bought on Flaze
 Ah yes, FlazeBot Store : https://flazebot.tebex.io/ 
 
 <:flaze:905582762231201823> FLAZE
-:t_: ﹂ Flaze come back in channel when restarting. My dad didn't... (AutoReconnect option in settings)
-:t_: ﹂ +volume's back (Premium only)
-:t_: ﹂ +filter (Premium only)
-:t_: ﹂ Prefix commands are not supported anymore, you may now use slash commands or mention FlazeBot if you still want to use prefix commands.
-:t_: ﹂ Documentation has been updated, and can now join the dark side of the force... (Dark mode)
+<:t_:820415154096439366> ﹂ Flaze come back in channel when restarting. My dad didn't... (AutoReconnect option in settings)
+<:t_:820415154096439366> ﹂ +volume's back (Premium only)
+<:t_:820415154096439366> ﹂ +filter (Premium only)
+<:t_:820415154096439366> ﹂ Prefix commands are not supported anymore, you may now use slash commands or mention FlazeBot if you still want to use prefix commands.
+<:t_:820415154096439366> ﹂ Documentation has been updated, and can now join the dark side of the force... (Dark mode)
 
 📻 Radio
-:t_: ﹂ New radio coming up : NFS HEAT. Kachoooow
-:t_: ﹂ Phonk have now 2 more hours
-:t_: ﹂ To all our music lovers, 128kbps for all radios ? Currently available !
+<:t_:820415154096439366> ﹂ New radio coming up : NFS HEAT. Kachoooow
+<:t_:820415154096439366> ﹂ Phonk have now 2 more hours
+<:t_:820415154096439366> ﹂ To all our music lovers, 128kbps for all radios ? Currently available !
 
 🗺️ Translation
-:t_: ﹂ 🇲🇦 Arabic translation now available ! 
-:t_: ﹂ We are searching for all the languages we have, a Russian and Chinese translators
+<:t_:820415154096439366> ﹂ 🇲🇦 Arabic translation now available ! 
+<:t_:820415154096439366> ﹂ We are searching for all the languages we have, a Russian and Chinese translators
 
 :desktop: Dev
-:t_: ﹂ <:redheberg:938865253708603403> FlazeBot have new servers to make it even more stable. Huge thanks to RedHeberg, our new host and partner.  +host now avalable to get more infos about these chads.
-:t_: ﹂ Discord.py is back on Flaze
-:t_: ﹂ Flaze is now on Python 3.10
-:t_: ﹂ Flaze has now changed its music system
-:t_: ﹂ API has been updated
-:t_: ﹂ New status system (bot and Web services) <@968483468076003339> Discord bot and <#968624338871943228> channel on our Discord server!
+<:t_:820415154096439366> ﹂ <:redheberg:938865253708603403> FlazeBot have new servers to make it even more stable. Huge thanks to RedHeberg, our new host and partner.  +host now avalable to get more infos about these chads.
+<:t_:820415154096439366> ﹂ Discord.py is back on Flaze
+<:t_:820415154096439366> ﹂ Flaze is now on Python 3.10
+<:t_:820415154096439366> ﹂ Flaze has now changed its music system
+<:t_:820415154096439366> ﹂ API has been updated
+<:t_:820415154096439366> ﹂ New status system (bot and Web services) <@968483468076003339> Discord bot and <#968624338871943228> channel on our Discord server!
 
 Big thanks to all of the people on our Discord for making suggestions and giving us their opinion on FlazeBot. You deserve a cookie ! 🍪 
 🎉 Get a free premium key on our server when 2.0 is out !
