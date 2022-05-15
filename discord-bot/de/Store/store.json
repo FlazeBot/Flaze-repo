@@ -39,7 +39,7 @@
   "key10_description": "Diese Lizenz kann nicht entfernt werden.",
   "key11_title": "Key",
   "key11_description": "Diese Lizenz wurde erfolgreich von diesem Server entfernt und kann auf einem anderen benutzt werden.",
-  "key12_title": "Erreur",
-  "key12_description": "**Invalid argument!**"
+  "key12_title": "Fehler",
+  "key12_description": "**Ungültiges Argument!**"
  }
 ]
