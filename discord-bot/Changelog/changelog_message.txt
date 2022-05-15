@@ -27,7 +27,7 @@ Ah yes, FlazeBot Store : https://flazebot.tebex.io/
        ﹂ Flaze is now on Python 3.10
        ﹂ Flaze has now changed its music system
        ﹂ API has been updated
-       ﹂ New status system (bot and Web services) @Flaze Status#7687 Discord bot and #⚡┃status channel on our Discord server!
+       ﹂ New status system (bot and Web services) <@968483468076003339> Discord bot and <#968624338871943228> channel on our Discord server!
 
 Big thanks to all of the people on our Discord for making suggestions and giving us their opinion on FlazeBot. You deserve a cookie ! :cookie: 
 :tada: Get a free premium key on our server when 2.0 is out !
