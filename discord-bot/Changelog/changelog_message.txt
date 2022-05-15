@@ -2,10 +2,10 @@ CHANGELOG :newspaper:
 
 Hey ! What about some good news ? Flaze is currently having huge updates, and there's a list to keep you informed...
 
-New Discord bot for premiums users (those who have a premium key bought on Flaze's Store). New bot, New color ! :flaze_premium:
+New Discord bot for premiums users (those who have a premium key bought on Flaze's Store). New bot, New color ! <:flaze_premium:942463494937256017>
 Ah yes, FlazeBot Store : https://flazebot.tebex.io/ 
 
-:flaze: FLAZE
+<:flaze:905582762231201823> FLAZE
        ﹂ Flaze come back in channel when restarting. My dad didn't... (AutoReconnect option in settings)
        ﹂ `/volume`'s back (Premium only)
        ﹂ `/filter` (Premium only)
@@ -22,7 +22,7 @@ Ah yes, FlazeBot Store : https://flazebot.tebex.io/
        ﹂ We are searching for all the languages we have, a Russian and Chinese translators
 
 :desktop: Dev
-       ﹂ :redheberg: FlazeBot have new servers to make it even more stable. Huge thanks to RedHeberg, our new host and partner.  `/host` now available to get more infos about these chads.
+       ﹂ <:redheberg:938865253708603403> FlazeBot have new servers to make it even more stable. Huge thanks to RedHeberg, our new host and partner. `/host` now available to get more infos about these chads.
        ﹂ Discord.py is back on Flaze
        ﹂ Flaze is now on Python 3.10
        ﹂ Flaze has now changed its music system
@@ -34,4 +34,4 @@ Big thanks to all of the people on our Discord for making suggestions and giving
 Join us : discord.gg/ZrqMJUTZCv
 
 Have a nice day !
-FlazeBot Team :flaze:
+FlazeBot Team <:flaze:905582762231201823>
