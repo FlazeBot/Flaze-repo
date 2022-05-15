@@ -12,11 +12,11 @@
   "chargeback2_title": "Loja FlazeBot",
   "chargeback2_description": "**Estorno de pagamentos**\n\n**Informação de pagamento**:\nID da transação: `%1`\nID do pagamento: `%2`\nUsuario: `%3`\nID do usuario: `%4`\nNome do pacote: `%5`\nTempo: `%6`\nData: `%7`",
   "key1_msg0": "**Você tem %1 chave(s)**",
-  "key1_msg2": "Show your keys",
-  "key1_msg3": "Guild Remove",
-  "key1_msg4": "Expiration:",
-  "key1_msg5": "%1 Monthly keys ",
-  "key1_msg6": "%1 Lifetime keys",
+  "key1_msg2": "Mostre suas chaves",
+  "key1_msg3": "Guilda Remover",
+  "key1_msg4": "Validade:",
+  "key1_msg5": "%1 Chaves mensais ",
+  "key1_msg6": "%1 Chaves vitalícias",
   "key1_title": "Erro",
   "key1_description": "Você não tem nenhuma licensa premium",
   "key2_title": "Chave",
@@ -39,7 +39,7 @@
   "key10_description": "Essa chave de licensa não pode ser removida.",
   "key11_title": "Chave",
   "key11_description": "A chave de licença foi removida corretamente do servidor e agora pode ser usada em outro servidor.",
-  "key12_title": "Erreur",
-  "key12_description": "**Invalid argument!**"
+  "key12_title": "Erro",
+  "key12_description": "**Argumento inválido!**"
  }
 ]
