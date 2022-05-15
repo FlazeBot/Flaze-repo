@@ -1,7 +1,7 @@
 [
  {
-  "changelog0_msg1": "Select A Text Channel",
-  "changelog0_msg2": "Disable",
+  "changelog0_msg1": "Wähle einen Textkanal",
+  "changelog0_msg2": "Deaktiviere",
   "changelog1_title": "Neuigkeiten",
   "changelog1_description": "%1changelog enable\n%1changelog disable\n%1changelog info",
   "changelog2_title": "❌ Fehler",
