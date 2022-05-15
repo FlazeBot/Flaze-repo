@@ -151,9 +151,9 @@
   "restricted_vc19_description": "**Du kannst nicht den gleichen Kanal wählen.**",
   "restricted_vc20_title": "Fehler",
   "restricted_vc20_description": "**Du kannst FlazeBot nicht dazu bringen diesem Sprachkanal beigetreten.**",
-  "restricted_vc21_title": "Restricted Voice Channels Settings",
-  "restricted_vc21_description": "Restricted Voice Channels has correctly been configured.",
-  "restricted_vc22_title": "Restricted Voice Channels Settings",
-  "restricted_vc22_description": "Choose up to two channels (Number of selected channels: %1)"
+  "restricted_vc21_title": "Eingeschränkte Sprachkanal Einstellungen",
+  "restricted_vc21_description": "Eingeschränkte Sprachkanal Einstellungen wurden eingerichtet",
+  "restricted_vc22_title": "Eingeschränkte Sprachkanal Einstellungen",
+  "restricted_vc22_description": "Wähle zwei Kanäle (Anzahl der Kanäle: %1)"
  }
 ]
