@@ -22,7 +22,7 @@ Ah yes, FlazeBot Store : https://flazebot.tebex.io/
 <:t_:820415154096439366> ﹂ We are searching for all the languages we have, a Russian and Chinese translators
 
 :desktop: Dev
-<:t_:820415154096439366> ﹂ <:redheberg:938865253708603403> FlazeBot have new servers to make it even more stable. Huge thanks to RedHeberg, our new host and partner.  +host now avalable to get more infos about these chads.
+<:t_:820415154096439366> ﹂ <:redheberg:938865253708603403> FlazeBot have new servers to make it even more stable. Huge thanks to RedHeberg, our new host and partner.  `/host` now available to get more infos about these chads.
 <:t_:820415154096439366> ﹂ Discord.py is back on Flaze
 <:t_:820415154096439366> ﹂ Flaze is now on Python 3.10
 <:t_:820415154096439366> ﹂ Flaze has now changed its music system
