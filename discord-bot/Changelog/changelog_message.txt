@@ -1,37 +1,35 @@
 CHANGELOG :newspaper:
 
-Hey ! What about some good news ? Flaze is currently having huge updates, and there's a list to keep you informed...
+Hey ! Want some news? Flaze is updating to version 2.1! Yay :tada:
 
-New Discord bot for premiums users (those who have a premium key bought on Flaze's Store). New bot, New color ! <:flaze_premium:942463494937256017>
-Ah yes, FlazeBot Store : https://flazebot.tebex.io/ 
+Premium users, we got you! We're currently doing some magic to try to get Custom Bots! (Check our Discord for news)
 
-<:flaze:905582762231201823> FLAZE
-       ﹂ Flaze come back in channel when restarting. My dad didn't... (AutoReconnect option in settings)
-       ﹂ `/volume`'s back (Premium only)
-       ﹂ `/filter` (Premium only)
-       ﹂ Prefix commands are not supported anymore, you may now use slash commands or mention FlazeBot if you still want to use prefix commands.
-       ﹂ Documentation has been updated, and can now join the dark side of the force... (Dark mode)
+:flaze: FLAZE WEBSITE
+       ﹂ We added terms, privacy and cookies policy, so you know what we do with your data and all that jazz :wink:
+       ﹂ We also added a cookies banner when you browse the website, so you can accept or reject our cookies!
+       ﹂ We now have a brand new page, the Radio News! Everything you can get about the latest songs and radios!
 
 :radio: Radio
-       ﹂ New radio coming up : NFS HEAT. Kachoooow
-       ﹂ Phonk have now 2 more hours
-       ﹂ To all our music lovers, 128kbps for all radios ? Currently available !
-
+       ﹂ New radio coming up : Eurobeat! *Deja vu!*
+       ﹂ New songs in Phonk and Lo-Fi playlist! As the community asked :smile:
+       ﹂ Unfortunately we have deleted radios : NFS Heat, French Rap and Trap as they were discontinued. :frowning: 
+       ﹂ 96kbps for everyone, 320kbps for premium users. 
+       ﹂ Talking of premium users, they now have access to the Flaze Player feature (Documentation will be updated for this)
+       ﹂ We are willing to add radios/songs you want! Join our Discord and suggest what you want to be added!
+ 
 :map: Translation
-       ﹂ :flag_ma: Arabic translation now available ! 
-       ﹂ We are searching for all the languages we have, a Russian and Chinese translators
+       ﹂ :flag_de: :flag_cn: :flag_ru: We are highly searching for German, Chinese and Russian translators (priority goes to German as we already have this language)
 
 :desktop: Dev
-       ﹂ <:redheberg:938865253708603403> FlazeBot have new servers to make it even more stable. Huge thanks to RedHeberg, our new host and partner. `/host` now available to get more infos about these chads.
-       ﹂ Discord.py is back on Flaze
-       ﹂ Flaze is now on Python 3.10
-       ﹂ Flaze has now changed its music system
-       ﹂ API has been updated
-       ﹂ New status system (bot and Web services) <@968483468076003339> Discord bot and <#968624338871943228> channel on our Discord server!
+       ﹂ Radio status has been modified.
+       ﹂ Nowplaying command has also been modified.
+       ﹂ New radio system. So everything is stable!
+       ﹂ New `/debug` command. Use only if FlazeBot is acting weird in your voice channel and it will fix it. If not please visit our Discord!
+       ﹂ API has been updated. Get more informations!
+       ﹂ Many bug fixes and corrections.
 
-Big thanks to all of the people on our Discord for making suggestions and giving us their opinion on FlazeBot. You deserve a cookie ! :cookie: 
-:tada: Get a free premium key on our server when 2.0 is out !
+:tada: Get a free premium key on our server when 2.1 is out !
 Join us : discord.gg/3X5SxjDPRG
 
-Have a nice day !
-FlazeBot Team <:flaze:905582762231201823>
+Have a great and enjoyable day!
+FlazeBot Team :flaze:
