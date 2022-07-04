@@ -4,7 +4,7 @@ Hey ! Want some news? Flaze is updating to version 2.1! Yay :tada:
 
 Premium users, we got you! We're currently doing some magic to try to get Custom Bots! (Check our Discord for news)
 
-:flaze: FLAZE WEBSITE
+<:flaze:905582762231201823> FLAZE WEBSITE
        ﹂ We added terms, privacy and cookies policy, so you know what we do with your data and all that jazz :wink:
        ﹂ We also added a cookies banner when you browse the website, so you can accept or reject our cookies!
        ﹂ We now have a brand new page, the Radio News! Everything you can get about the latest songs and radios!
@@ -32,4 +32,4 @@ Premium users, we got you! We're currently doing some magic to try to get Custom
 Join us : discord.gg/3X5SxjDPRG
 
 Have a great and enjoyable day!
-FlazeBot Team :flaze:
+Flaze Team <:flaze:905582762231201823>
