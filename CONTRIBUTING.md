@@ -1,1 +1,1 @@
-Join us on Discord and help us translate FlazeBot!
+Join us on [Discord](https://discord.flazebot.com/) and help us translate FlazeBot!
