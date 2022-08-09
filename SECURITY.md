@@ -4,7 +4,7 @@
 
 |Version|Description|
 |-------|------------------|
-|v2.1|Stable Build|
+|v2.1|Beta Build|
 
 ## Versions
 
