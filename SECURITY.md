@@ -17,7 +17,7 @@
 |v2.0|❌|  
 |v2.1|[Check the v2.1 changelog](https://github.com/FlazeBot/Flaze-documentation/releases/tag/v2.1)|
 |v2.2|[Check the v2.2 changelog](https://github.com/FlazeBot/Flaze-documentation/releases/tag/v2.2)|
-|v2.3|Under devevlopment...|
+|v2.3|Under development... Soon™️|
 
 Note: Please report bugs on our [Discord](https://discord.flazebot.com/).
 Also, GitHub releases are not official ones, if you see that it's under developement please consider visiting this page or our Discord. Trust only common platforms where we post informations. (Like Discord) 
