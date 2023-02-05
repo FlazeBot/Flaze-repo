@@ -2,23 +2,21 @@ CHANGELOG :newspaper:
 
 Hey! Want fresh news? Flaze is updating to version 2.3! Let's gooo :tada:
 
-<:flaze:1020658416496160788> FLAZE WEBSITE
+<:flaze:1020658416496160788> **FLAZE WEBSITE**
        ﹂ We now have a **dashboard** which allows you to check the current music, change radio, see next song and more!
              ﹂ https://dashboard.flazebot.com/
              ﹂ Some features are currently not available, they are coming in a different dashboard version.
        ﹂ As we updated `/flazeinfo` command (which you can read more about below), FlazeBot, Website and Dashboard are considered as different services.
        ﹂ Dropdowns have been reworked a bit so they may not bug as much as it was before.
 
-:radio: Radio
-       ﹂ We added Bass radio! Turn up the volume :smile:
-       ﹂ We also added ES Rap, a playlist made by Khyllux :wink:
+:radio: **RADIO**
+       ﹂ We added Bass and ES Rap radio! Turn up the volume :smile:
        ﹂ We added music to Rap US and FR.
  
-:map: Translation
+:map: **TRANSLATION**
        ﹂ :flag_de: :flag_cn: :flag_ru: We are still highly searching for German, Chinese and Russian translators!
 
-:desktop: Dev
-       ﹂ We added many services to help maintaining FlazeBot, not really much you can see.
+:desktop: **DEV**
        ﹂ New `/search` command. It may allow you to search for songs in radios!
        ﹂ `/settings` command has been reworked a lot, it may be even more efficient!
        ﹂ `/flazeinfo` has received some changes: 
@@ -28,8 +26,12 @@ Hey! Want fresh news? Flaze is updating to version 2.3! Let's gooo :tada:
        ﹂ Many little improvements on FlazeBot efficiency, it may play and execute commands faster and better.
        ﹂ Our infrastructure has been **entirely** reworked, we have our own servers and that's why this update took a bit of time to come out.
              ﹂ We now have someone new in Flaze Team, luc13680as which is our System Administrator!
-       ﹂ All advertisements concerning our previous Partner have been removed.
        ﹂ Many bug fixes and corrections.
+
+:link: Links
+Linktree - https://linktr.ee/flazebot/
+Our Website - https://flazebot.com/
+Discord server - https://discord.flazebot.com/
 
 Have a great and enjoyable day!
 Flaze Team <:flaze:1020658416496160788>
