@@ -1,42 +1,0 @@
-[
-    {
-     "changelog0_msg1": "أختر قناة كتابيه",
-     "changelog0_msg2": "تعطيل",
-     "changelog1_title": "سجل التغيرات",
-     "changelog1_description": "%1changelog enable\n%1changelog disable\n%1changelog info",
-     "changelog2_title": "❌ خطأ",
-     "changelog2_description": "**سجل التغيرات يعمل بالفعل.**",
-     "changelog3_title": "سجل التغيرات",
-     "changelog3_description": "**تم تفعيل سجل التغيرات بالفعل.**",
-     "changelog4_title": "❌ خطأ",
-     "changelog4_description": "**تم تعطيل سجل التغيرات بالفعل.**",
-     "changelog5_title": "سجل التغيرات",
-     "changelog5_description": "**تم إيقاف سجل التغيرات بنجاح.**",
-     "changelog6_title": "❌ خطأ",
-     "changelog6_description": "**سجل التغيرات معطل.**",
-     "changelog7_title": "❌ خطأ",
-     "changelog7_description": "**لا تستطيع أستخدام الأمر بالوقت الراهن.**",
-     "changelog8_title": "سجل التغيرات",
-     "changelog8_description": "الرجاء أختيار القناة لتفعيل سجل التغيرات.",
-     "changelog9_title": "❌ خطأ",
-     "changelog9_description": "تم الوصول إلى حد الأخطاء (3 كحد أقصى).",
-     "changelog10_title": "❌ خطأ",
-     "changelog10_description": "نفذَ الوقت المحدد.",
-     "changelog11_title": "سجل التغيرات",
-     "changelog11_description": "تم الغاء الطلب.",
-     "changelog12_title": "❌ خطأ",
-     "changelog12_description": "القناة `%1` لا أستطيع العثور عليها.",
-     "changelog13_title": "❌ خطأ",
-     "changelog13_description": "**خطأ في نوع القناة.**",
-     "changelog14_title": "❌ خطأ",
-     "changelog14_description": "هنالك مشكله ما 🤨.",
-     "changelog15_title": "سجل التغيرات",
-     "changelog15_description": "**تم الأعداد بنجاح :** %1",
-     "changelog16_title": "❌ خطأ",
-     "changelog16_description": "**خطأ بالمدخلات**",
-     "changelog17_title": "❌ خطأ",
-     "changelog17_description": "**أنت لا تمتلك صلاحية لأسخدام  هاذا الأمر.**",
-     "changelog18_msg": "<:jaivolerdiscord:905917097203335268>     سيتم أرسال أخر تحديثات FlazeBot من الأن فصاعدنا ."
-    }
-   ]
-   
