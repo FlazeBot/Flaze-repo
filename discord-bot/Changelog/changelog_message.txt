@@ -1,35 +1,35 @@
 CHANGELOG :newspaper:
 
-Hey ! Want some news? Flaze is updating to version 2.1! Yay :tada:
+Hey! Want fresh news? Flaze is updating to version 2.3! Let's gooo :tada:
 
-Premium users, we got you! We're currently doing some magic to try to get Custom Bots! (Check our Discord for news)
-
-<:flaze:905582762231201823> FLAZE WEBSITE
-       ﹂ We added terms, privacy and cookies policy, so you know what we do with your data and all that jazz :wink:
-       ﹂ We also added a cookies banner when you browse the website, so you can accept or reject our cookies!
-       ﹂ We now have a brand new page, the Radio News! Everything you can get about the latest songs and radios!
+<:flaze:1020658416496160788> FLAZE WEBSITE
+       ﹂ We now have a **dashboard** which allows you to check the current music, change radio, see next song and more!
+             ﹂ https://dashboard.flazebot.com/
+             ﹂ Some features are currently not available, they are coming in a different dashboard version.
+       ﹂ As we updated `/flazeinfo` command (which you can read more about below), FlazeBot, Website and Dashboard are considered as different services.
+       ﹂ Dropdowns have been reworked a bit so they may not bug as much as it was before.
 
 :radio: Radio
-       ﹂ New radio coming up : Eurobeat! *Deja vu!*
-       ﹂ New songs in Phonk and Lo-Fi playlist! As the community asked :smile:
-       ﹂ Unfortunately we have deleted radios : NFS Heat, French Rap and Trap as they were discontinued. :frowning: 
-       ﹂ 96kbps for everyone, 320kbps for premium users. 
-       ﹂ Talking of premium users, they now have access to the Flaze Player feature (Documentation will be updated for this)
-       ﹂ We are willing to add radios/songs you want! Join our Discord and suggest what you want to be added!
+       ﹂ We added Bass radio! Turn up the volume :smile:
+       ﹂ We also added ES Rap, a playlist made by Khyllux :wink:
+       ﹂ We added music to Rap US and FR.
  
 :map: Translation
-       ﹂ :flag_de: :flag_cn: :flag_ru: We are highly searching for German, Chinese and Russian translators (priority goes to German as we already have this language)
+       ﹂ :flag_de: :flag_cn: :flag_ru: We are still highly searching for German, Chinese and Russian translators!
 
 :desktop: Dev
-       ﹂ Radio status has been modified.
-       ﹂ Nowplaying command has also been modified.
-       ﹂ New radio system. So everything is stable!
-       ﹂ New `/debug` command. Use only if FlazeBot is acting weird in your voice channel and it will fix it. If not please visit our Discord!
-       ﹂ API has been updated. Get more informations!
+       ﹂ We added many services to help maintaining FlazeBot, not really much you can see.
+       ﹂ New `/search` command. It may allow you to search for songs in radios!
+       ﹂ `/settings` command has been reworked a lot, it may be even more efficient!
+       ﹂ `/flazeinfo` has received some changes: 
+             ﹂ server category is not shown anymore, 
+             ﹂ versions of Flaze services are now shown.
+       ﹂ A new system introduces itself, the Timer Radio, which is part of the `/settings` command.
+       ﹂ Many little improvements on FlazeBot efficiency, it may play and execute commands faster and better.
+       ﹂ Our infrastructure has been **entirely** reworked, we have our own servers and that's why this update took a bit of time to come out.
+             ﹂ We now have someone new in Flaze Team, luc13680as which is our System Administrator!
+       ﹂ All advertisements concerning our previous Partner have been removed.
        ﹂ Many bug fixes and corrections.
 
-:tada: Get a free premium key on our server when 2.1 is out !
-Join us : discord.gg/3X5SxjDPRG
-
 Have a great and enjoyable day!
-Flaze Team <:flaze:905582762231201823>
+Flaze Team <:flaze:1020658416496160788>
